@@ -30,7 +30,7 @@ The dashboard presents:
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/dashboard.png)
+![Sales Performance Dashboard](screenshots/Dashboard.png)
 
 ## File
 

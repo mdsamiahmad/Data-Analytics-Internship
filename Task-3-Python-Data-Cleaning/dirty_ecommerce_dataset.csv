@@ -1,0 +1,1011 @@
+Order_ID,Customer_ID,Customer_Name,City,Order_Date,Product_Category,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Customer_Rating,Delivery_Days,Total_Amount
+ORD10001,CUST1001,Customer_1,,01-01-2025,Sports,5,11202.0,15,Net Banking,Returned,1.0,6.0,47608.5
+ORD10002,CUST1002,Customer_2,Ghaziabad,01-01-2025,Electronics,3,9718.0,20,Cash on Delivery,Shipped,4.0,6.0,23323.2
+ORD10003,CUST1003,Customer_3,Faridabad,02-01-2025,Electronics,5,13458.0,0,Net Banking,Delivered,4.0,5.0,67290.0
+ORD10004,CUST1004,Customer_4,Lucknow,02-01-2025,Electronics,2,1219.0,0,Debit Card,Returned,2.0,3.0,2438.0
+ORD10005,CUST1005,Customer_5,Gurgaon,03-01-2025,Grocery,1,5437.0,0,Cash on Delivery,Delivered,2.0,6.0,5437.0
+ORD10006,CUST1006,Customer_6, Delhi ,03-01-2025,electronics,3,10228.0,0,upi,delivered,2.0,1.0,30684.0
+ORD10007,CUST1007,Customer_7,delhi,04-01-2025, Electronics ,2,12648.0,10, UPI , Delivered ,3.0,4.0,22766.4
+ORD10008,CUST1008,Customer_8,NOIDA,04-01-2025,ELECtronics,2,10840.0,25,Credit card,DELIVERED,2.0,8.0,16260.0
+ORD10009,CUST1009,Customer_9,Noida ,05-01-2025,Grocery,3,12685.0,10,Credit Card,Returned,4.0,,34249.5
+ORD10010,CUST1010,Customer_10,Noida,05-01-2025,Grocery,5,1483.0,10,UPI,Cancelled,3.0,3.0,6673.5
+ORD10011,CUST1011,Customer_11,Gurgaon,06-01-2025,Sports,2,859.0,20,UPI,Delivered,5.0,1.0,1374.4
+ORD10012,CUST1012,Customer_12,Lucknow,06-01-2025,Home & Kitchen,4,14263.0,20,Net Banking,Delivered,1.0,1.0,45641.6
+ORD10013,CUST1013,Customer_13,Gurgaon,07-01-2025,Grocery,2,13558.0,25,Net Banking,Cancelled,2.0,2.0,20337.0
+ORD10014,CUST1014,Customer_14,Gurgaon,07-01-2025,Sports,5,2210.0,20,,Delivered,5.0,1.0,8840.0
+ORD10015,CUST1015,Customer_15,Chandigarh,08-01-2025,Clothing,5,8790.0,5,UPI,Returned,4.0,5.0,41752.5
+ORD10016,CUST1016,Customer_16,Faridabad,08-01-2025,Home & Kitchen,4,1933.0,25,,Returned,1.0,4.0,5799.0
+ORD10017,CUST1017,Customer_17,Ghaziabad,09-01-2025,Grocery,2,14070.0,20,Cash on Delivery,Cancelled,5.0,2.0,22512.0
+ORD10018,CUST1018,Customer_18,Chandigarh,09-01-2025,Electronics,5,2325.0,25,Net Banking,Shipped,1.0,,8718.75
+ORD10019,CUST1019,Customer_19,Chandigarh,10-01-2025,Clothing,3,2371.0,10,Credit Card,Returned,2.0,4.0,6401.7
+ORD10020,CUST1020,Customer_20,Gurgaon,10-01-2025,Clothing,1,8466.0,10,Debit Card,Shipped,4.0,3.0,7619.4
+ORD10021,CUST1021,Customer_21,Jaipur,11-01-2025,Sports,0,14672.0,25,Net Banking,Shipped,1.0,3.0,11004.0
+ORD10022,CUST1022,Customer_22,Faridabad,11-01-2025,Clothing,-2,13089.0,5,Cash on Delivery,Shipped,5.0,2.0,12434.55
+ORD10023,CUST1023,Customer_23,Noida,12-01-2025,Home & Kitchen,2,3671.0,5,Debit Card,Delivered,7.0,6.0,6974.9
+ORD10024,CUST1024,Customer_24,Chandigarh,12-01-2025,Grocery,4,9228.0,25,Debit Card,Delivered,0.0,7.0,27684.0
+ORD10025,CUST1025,Customer_25,Ghaziabad,13-01-2025,Grocery,5,5824.0,20,Cash on Delivery,Delivered,5.0,-3.0,23296.0
+ORD10026,CUST1026,Customer_26,Jaipur,13-01-2025,Electronics,3,-500.0,15,Net Banking,Returned,5.0,7.0,22672.05
+ORD10027,CUST1027,Customer_27,Jaipur,14-01-2025,Sports,3,14084.0,5,UPI,Returned,1.0,3.0,40139.4
+ORD10028,CUST1028,Customer_28,Noida,14-01-2025,Electronics,2,8529.0,0,Cash on Delivery,Shipped,3.0,3.0,17058.0
+ORD10029,CUST1029,Customer_29,Chandigarh,15-01-2025,Clothing,1,2297.0,10,Cash on Delivery,Delivered,2.0,4.0,2067.3
+ORD10030,CUST1030,Customer_30,Ghaziabad,15-01-2025,Electronics,2,14282.0,25,Cash on Delivery,Shipped,1.0,2.0,21423.0
+ORD10031,CUST1031,Customer_31,Faridabad,16-01-2025,Home & Kitchen,4,"₹12,500",0,Debit Card,Delivered,5.0,4.0,21072.0
+ORD10032,CUST1032,Customer_32,,16-01-2025,Grocery,4,1500 INR,25,Credit Card,Shipped,1.0,8.0,42390.0
+ORD10033,CUST1033,Customer_33,Ghaziabad,17-01-2025,Clothing,5,N/A,10,UPI,Delivered,5.0,5.0,54396.0
+ORD10034,CUST1034,Customer_34,Noida,17-01-2025,Electronics,5,10277.0,10,Net Banking,Delivered,,4.0,46246.5
+ORD10035,CUST1035,Customer_35,Jaipur,18-01-2025,Sports,4,6597.0,5,Net Banking,Cancelled,,7.0,25068.6
+ORD10036,CUST1036,Customer_36,Faridabad,18-01-2025,Home & Kitchen,4,14516.0,5,Credit Card,Shipped,5.0,7.0,55160.8
+ORD10037,CUST1037,Customer_37,Ghaziabad,19-01-2025,Home & Kitchen,4,2957.0,0,Cash on Delivery,Returned,5.0,5.0,11828.0
+ORD10038,CUST1038,Customer_38,Delhi,19-01-2025,Electronics,2,4120.0,25,UPI,Delivered,3.0,1.0,6180.0
+ORD10039,CUST1039,Customer_39,Delhi,20-01-2025,Grocery,4,8386.0,10,Net Banking,Cancelled,,1.0,30189.6
+ORD10040,CUST1040,Customer_40,Gurgaon,20-01-2025,Electronics,3,2100.0,0,Net Banking,Returned,2.0,5.0,6300.0
+ORD10041,CUST1041,Customer_41,Gurgaon,21-01-2025,Clothing,1,2810.0,15,Cash on Delivery,Delivered,2.0,5.0,2388.5
+ORD10042,CUST1042,Customer_42,Lucknow,21-01-2025,Electronics,4,7100.0,0,Credit Card,Shipped,1.0,4.0,28400.0
+ORD10043,CUST1043,Customer_43,Noida,22-01-2025,Home & Kitchen,1,12378.0,20,UPI,Cancelled,3.0,5.0,9902.4
+ORD10044,CUST1044,Customer_44,Chandigarh,22-01-2025,Electronics,2,1649.0,0,Credit Card,Shipped,1.0,8.0,3298.0
+ORD10045,CUST1045,Customer_45,Ghaziabad,23-01-2025,Grocery,1,8938.0,20,,Delivered,,2.0,7150.4
+ORD10046,CUST1046,Customer_46,Ghaziabad,23-01-2025,Sports,2,5217.0,20,UPI,Cancelled,2.0,1.0,8347.2
+ORD10047,CUST1047,Customer_47,Chandigarh,24-01-2025,Beauty,3,13068.0,20,UPI,Delivered,4.0,1.0,31363.2
+ORD10048,CUST1048,Customer_48,Lucknow,24-01-2025,Electronics,2,13860.0,15,Net Banking,Delivered,5.0,8.0,23562.0
+ORD10049,CUST1049,Customer_49,Jaipur,25-01-2025,Grocery,2,8199.0,0,Net Banking,Delivered,2.0,6.0,16398.0
+ORD10050,CUST1050,Customer_50,Jaipur,25-01-2025,Grocery,5,6252.0,0,UPI,Shipped,1.0,8.0,31260.0
+ORD10051,CUST1051,Customer_51,Lucknow,26-01-2025,Sports,4,10395.0,15,Debit Card,Delivered,1.0,8.0,35343.0
+ORD10052,CUST1052,Customer_52,Jaipur,26-01-2025,Home & Kitchen,4,2296.0,10,Net Banking,Delivered,5.0,5.0,8265.6
+ORD10053,CUST1053,Customer_53,Gurgaon,27-01-2025,Grocery,3,9095.0,5,Debit Card,Returned,5.0,3.0,25920.75
+ORD10054,CUST1054,Customer_54,Ghaziabad,27-01-2025,Grocery,3,6604.0,0,UPI,Delivered,4.0,3.0,19812.0
+ORD10055,CUST1055,Customer_55,Lucknow,28-01-2025,Grocery,4,10795.0,5,Net Banking,Delivered,3.0,8.0,41021.0
+ORD10056,CUST1056,Customer_56,Ghaziabad,28-01-2025,Grocery,5,10017.0,25,Credit Card,Cancelled,1.0,5.0,37563.75
+ORD10057,CUST1057,Customer_57,Chandigarh,29-01-2025,Clothing,4,3531.0,25,UPI,Cancelled,5.0,2.0,10593.0
+ORD10058,CUST1058,Customer_58,Delhi,29-01-2025,Clothing,5,13125.0,15,,Delivered,1.0,3.0,55781.25
+ORD10059,CUST1059,Customer_59,Gurgaon,30-01-2025,Home & Kitchen,3,7662.0,25,Debit Card,Cancelled,5.0,6.0,17239.5
+ORD10060,CUST1060,Customer_60,Faridabad,30-01-2025,Electronics,1,5305.0,25,UPI,Delivered,2.0,7.0,3978.75
+ORD10061,CUST1061,Customer_61,Gurgaon,31-01-2025,Grocery,3,3178.0,10,UPI,Delivered,1.0,5.0,8580.6
+ORD10062,CUST1062,Customer_62,Lucknow,31-01-2025,Sports,3,13128.0,10,Net Banking,Shipped,2.0,8.0,35445.6
+ORD10063,CUST1063,Customer_63,Faridabad,01-02-2025,Electronics,2,3039.0,10,Net Banking,Delivered,1.0,2.0,5470.2
+ORD10064,CUST1064,Customer_64,Delhi,01-02-2025,Sports,2,3584.0,25,Net Banking,Delivered,3.0,2.0,5376.0
+ORD10065,CUST1065,Customer_65,Lucknow,02-02-2025,Electronics,2,11051.0,15,,Delivered,4.0,4.0,18786.7
+ORD10066,CUST1066,Customer_66,Noida,02-02-2025,Home & Kitchen,2,10253.0,20,Net Banking,Shipped,2.0,2.0,16404.8
+ORD10067,CUST1067,Customer_67,Ghaziabad,03-02-2025,Grocery,5,11248.0,20,UPI,Delivered,5.0,3.0,44992.0
+ORD10068,CUST1068,Customer_68,Delhi,03-02-2025,Grocery,4,13693.0,5,Net Banking,Returned,3.0,8.0,52033.4
+ORD10069,CUST1069,Customer_69,Ghaziabad,04-02-2025,Beauty,1,885.0,20,Credit Card,Cancelled,1.0,7.0,708.0
+ORD10070,CUST1070,Customer_70,Jaipur,04-02-2025,Sports,3,14339.0,20,Net Banking,Delivered,2.0,3.0,34413.6
+ORD10071,CUST1071,Customer_71,Noida,05-02-2025,Electronics,5,7731.0,10,Cash on Delivery,Delivered,1.0,5.0,34789.5
+ORD10072,CUST1072,Customer_72,Noida,05-02-2025,Electronics,1,4483.0,10,Credit Card,Delivered,1.0,7.0,4034.7
+ORD10073,CUST1073,Customer_73,Delhi,06-02-2025,Clothing,5,,25,UPI,Cancelled,1.0,5.0,29760.0
+ORD10074,CUST1074,Customer_74,Noida,06-02-2025,Beauty,5,7910.0,5,UPI,Shipped,4.0,2.0,37572.5
+ORD10075,CUST1075,Customer_75,Faridabad,07-02-2025,Clothing,3,1819.0,0,Debit Card,Delivered,4.0,,5457.0
+ORD10076,CUST1076,Customer_76,Noida,07-02-2025,Clothing,4,14175.0,5,Credit Card,Delivered,5.0,1.0,53865.0
+ORD10077,CUST1077,Customer_77,Ghaziabad,08-02-2025,Clothing,2,13472.0,5,Debit Card,Shipped,2.0,7.0,25596.8
+ORD10078,CUST1078,Customer_78,Ghaziabad,08-02-2025,Sports,4,13035.0,15,Credit Card,Delivered,3.0,8.0,44319.0
+ORD10079,CUST1079,Customer_79,Lucknow,09-02-2025,Sports,3,7068.0,25,Credit Card,Delivered,3.0,,15903.0
+ORD10080,CUST1080,Customer_80,Ghaziabad,09-02-2025,Home & Kitchen,3,1631.0,15,Cash on Delivery,Delivered,3.0,1.0,4159.05
+ORD10081,CUST1081,Customer_81,Lucknow,10-02-2025,Home & Kitchen,3,9267.0,5,Debit Card,Shipped,1.0,2.0,26410.95
+ORD10082,CUST1082,Customer_82,Ghaziabad,10-02-2025,Clothing,1,4913.0,5,Cash on Delivery,Delivered,4.0,2.0,4667.35
+ORD10083,CUST1083,Customer_83,Faridabad,11-02-2025,Beauty,4,10853.0,5,Credit Card,Shipped,2.0,8.0,41241.4
+ORD10084,CUST1084,Customer_84,Chandigarh,11-02-2025,Electronics,4,9757.0,20,UPI,Cancelled,1.0,1.0,31222.4
+ORD10085,CUST1085,Customer_85,Lucknow,12-02-2025,Sports,5,9635.0,15,Credit Card,Delivered,4.0,4.0,40948.75
+ORD10086,CUST1086,Customer_86,Gurgaon,12-02-2025,Beauty,5,5198.0,5,Cash on Delivery,Delivered,4.0,7.0,24690.5
+ORD10087,CUST1087,Customer_87,Jaipur,13-02-2025,Grocery,5,362.0,10,Debit Card,Delivered,,7.0,1629.0
+ORD10088,CUST1088,Customer_88,Delhi,13-02-2025,Sports,3,2174.0,25,Debit Card,Shipped,2.0,1.0,4891.5
+ORD10089,CUST1089,Customer_89,Ghaziabad,14-02-2025,Sports,4,3491.0,25,Cash on Delivery,Shipped,2.0,5.0,10473.0
+ORD10090,CUST1090,Customer_90,Noida,14-02-2025,Home & Kitchen,3,8661.0,10,Debit Card,Delivered,1.0,3.0,23384.7
+ORD10091,CUST1091,Customer_91,Chandigarh,15-02-2025,Electronics,1,831.0,25,Net Banking,Delivered,5.0,6.0,623.25
+ORD10092,CUST1092,Customer_92,Ghaziabad,15-02-2025,Electronics,5,1105.0,20,UPI,Delivered,2.0,5.0,4420.0
+ORD10093,CUST1093,Customer_93,Noida,16-02-2025,Grocery,3,11863.0,20,UPI,Delivered,5.0,7.0,28471.2
+ORD10094,CUST1094,Customer_94,Jaipur,16-02-2025,Grocery,3,11645.0,0,UPI,Delivered,1.0,3.0,34935.0
+ORD10095,CUST1095,Customer_95,Jaipur,17-02-2025,Sports,1,2214.0,0,Debit Card,Delivered,,6.0,2214.0
+ORD10096,CUST1096,Customer_96,Jaipur,17-02-2025,Clothing,2,10033.0,0,Debit Card,Cancelled,3.0,6.0,20066.0
+ORD10097,CUST1097,Customer_97,Noida,18-02-2025,Home & Kitchen,4,8096.0,25,Credit Card,Delivered,,6.0,24288.0
+ORD10098,CUST1098,Customer_98,Ghaziabad,18-02-2025,Home & Kitchen,2,404.0,20,Credit Card,Shipped,2.0,,646.4
+ORD10099,CUST1099,Customer_99,Jaipur,19-02-2025,Sports,5,781.0,20,UPI,Delivered,1.0,8.0,3124.0
+ORD10100,CUST1100,Customer_100,Faridabad,19-02-2025,Beauty,3,5875.0,20,Net Banking,Delivered,2.0,6.0,14100.0
+ORD10101,CUST1101,Customer_101,Lucknow,20-02-2025,Clothing,1,9232.0,10,Credit Card,Delivered,3.0,4.0,8308.8
+ORD10102,CUST1102,Customer_102,Noida,20-02-2025,Sports,1,14324.0,20,Credit Card,Delivered,2.0,1.0,11459.2
+ORD10103,CUST1103,Customer_103,Noida,21-02-2025,Clothing,4,5547.0,10,Debit Card,Returned,2.0,7.0,19969.2
+ORD10104,CUST1104,Customer_104,Ghaziabad,21-02-2025,Clothing,2,10111.0,0,Net Banking,Delivered,2.0,4.0,20222.0
+ORD10105,CUST1105,Customer_105,Noida,22-02-2025,Clothing,4,14130.0,0,UPI,Delivered,4.0,1.0,56520.0
+ORD10106,CUST1106,Customer_106,,22-02-2025,Sports,3,2843.0,25,Credit Card,Delivered,3.0,5.0,6396.75
+ORD10107,CUST1107,Customer_107,Jaipur,23-02-2025,Home & Kitchen,4,8217.0,0,Net Banking,Shipped,2.0,8.0,32868.0
+ORD10108,CUST1108,Customer_108,Ghaziabad,23-02-2025,Home & Kitchen,1,2497.0,25,,Returned,2.0,5.0,1872.75
+ORD10109,CUST1109,Customer_109,Jaipur,24-02-2025,Clothing,1,1074.0,5,UPI,Returned,2.0,1.0,1020.3
+ORD10110,CUST1110,Customer_110,Lucknow,24-02-2025,Beauty,5,5760.0,5,Net Banking,Shipped,1.0,4.0,27360.0
+ORD10111,CUST1111,Customer_111,Chandigarh,25-02-2025,Electronics,5,14731.0,15,Net Banking,Returned,4.0,1.0,62606.75
+ORD10112,CUST1112,Customer_112,Lucknow,25-02-2025,Sports,3,889.0,25,Net Banking,Shipped,1.0,6.0,2000.25
+ORD10113,CUST1113,Customer_113,Chandigarh,26-02-2025,Electronics,2,4200.0,15,Credit Card,Delivered,4.0,2.0,7140.0
+ORD10114,CUST1114,Customer_114,Jaipur,26-02-2025,Beauty,4,14498.0,15,UPI,Cancelled,2.0,7.0,49293.2
+ORD10115,CUST1115,Customer_115,Lucknow,27-02-2025,Sports,3,11533.0,5,Net Banking,Delivered,3.0,5.0,32869.05
+ORD10116,CUST1116,Customer_116,Ghaziabad,27-02-2025,Clothing,5,9814.0,25,Net Banking,Shipped,5.0,7.0,36802.5
+ORD10117,CUST1117,Customer_117,Delhi,28-02-2025,Home & Kitchen,4,14489.0,5,Credit Card,Delivered,5.0,2.0,55058.2
+ORD10118,CUST1118,Customer_118,Jaipur,28-02-2025,Electronics,5,871.0,15,UPI,Delivered,2.0,6.0,3701.75
+ORD10119,CUST1119,Customer_119,Chandigarh,01-03-2025,Grocery,4,8127.0,25,Debit Card,Cancelled,1.0,6.0,24381.0
+ORD10120,CUST1120,Customer_120,Faridabad,01-03-2025,Grocery,2,1371.0,15,Credit Card,Delivered,3.0,5.0,2330.7
+ORD10121,CUST1121,Customer_121,Chandigarh,02-03-2025,Beauty,3,5791.0,20,UPI,Returned,4.0,5.0,13898.4
+ORD10122,CUST1122,Customer_122,Faridabad,02-03-2025,Clothing,4,12118.0,25,Net Banking,Delivered,2.0,6.0,36354.0
+ORD10123,CUST1123,Customer_123,Noida,03-03-2025,Electronics,1,9335.0,25,UPI,Cancelled,3.0,,7001.25
+ORD10124,CUST1124,Customer_124,Lucknow,03-03-2025,Clothing,1,6542.0,15,UPI,Returned,3.0,7.0,5560.7
+ORD10125,CUST1125,Customer_125,Faridabad,04-03-2025,Electronics,4,1649.0,20,UPI,Cancelled,4.0,8.0,5276.8
+ORD10126,CUST1126,Customer_126,Chandigarh,04-03-2025,Beauty,4,12129.0,10,Debit Card,Returned,3.0,2.0,43664.4
+ORD10127,CUST1127,Customer_127,Noida,05-03-2025,Beauty,4,2739.0,5,UPI,Delivered,1.0,7.0,10408.2
+ORD10128,CUST1128,Customer_128,Delhi,05-03-2025,Grocery,1,4159.0,15,Debit Card,Shipped,1.0,2.0,3535.15
+ORD10129,CUST1129,Customer_129,Ghaziabad,06-03-2025,Clothing,1,13383.0,25,Net Banking,Delivered,1.0,3.0,10037.25
+ORD10130,CUST1130,Customer_130,Ghaziabad,06-03-2025,Sports,4,6485.0,5,Debit Card,Delivered,3.0,8.0,24643.0
+ORD10131,CUST1131,Customer_131,Ghaziabad,07-03-2025,Grocery,5,5632.0,5,Net Banking,Delivered,1.0,4.0,26752.0
+ORD10132,CUST1132,Customer_132,Faridabad,07-03-2025,Clothing,5,4460.0,5,Net Banking,Delivered,4.0,2.0,21185.0
+ORD10133,CUST1133,Customer_133,Delhi,08-03-2025,Grocery,2,2561.0,10,Debit Card,Delivered,3.0,7.0,4609.8
+ORD10134,CUST1134,Customer_134,Faridabad,08-03-2025,Sports,3,6364.0,0,Credit Card,Delivered,5.0,1.0,19092.0
+ORD10135,CUST1135,Customer_135,Lucknow,09-03-2025,Home & Kitchen,5,13593.0,15,Cash on Delivery,Delivered,3.0,8.0,57770.25
+ORD10136,CUST1136,Customer_136,Faridabad,09-03-2025,Home & Kitchen,1,12044.0,0,UPI,Delivered,4.0,6.0,12044.0
+ORD10137,CUST1137,Customer_137,Delhi,2025/03/10,Home & Kitchen,5,3870.0,0,Cash on Delivery,Shipped,5.0,6.0,19350.0
+ORD10138,CUST1138,Customer_138,Delhi,10-03-2025,Home & Kitchen,2,1953.0,0,UPI,Delivered,3.0,3.0,3906.0
+ORD10139,CUST1139,Customer_139,Lucknow,11-03-2025,Electronics,2,8300.0,5,UPI,Shipped,1.0,2.0,15770.0
+ORD10140,CUST1140,Customer_140,Delhi,11-03-2025,Home & Kitchen,3,10744.0,20,Net Banking,Delivered,2.0,4.0,25785.6
+ORD10141,CUST1141,Customer_141,Chandigarh,12-03-2025,Sports,5,2138.0,5,UPI,Delivered,2.0,2.0,10155.5
+ORD10142,CUST1142,Customer_142,Delhi,12-03-2025,Beauty,1,8762.0,5,UPI,Delivered,1.0,6.0,8323.9
+ORD10143,CUST1143,Customer_143,Ghaziabad,13-03-2025,Beauty,1,6176.0,25,Debit Card,Delivered,2.0,5.0,4632.0
+ORD10144,CUST1144,Customer_144,Chandigarh,13-03-2025,Electronics,4,13340.0,25,Cash on Delivery,Delivered,2.0,1.0,40020.0
+ORD10145,CUST1145,Customer_145,Chandigarh,14-03-2025,Home & Kitchen,1,12871.0,0,Debit Card,Shipped,1.0,8.0,12871.0
+ORD10146,CUST1146,Customer_146,Lucknow,14-03-2025,Home & Kitchen,3,10323.0,5,UPI,Shipped,1.0,3.0,29420.55
+ORD10147,CUST1147,Customer_147,Gurgaon,15-03-2025,Home & Kitchen,3,6788.0,0,Net Banking,Delivered,3.0,5.0,20364.0
+ORD10148,CUST1148,Customer_148,Gurgaon,15-03-2025,Grocery,1,8816.0,25,Debit Card,Delivered,3.0,7.0,6612.0
+ORD10149,CUST1149,Customer_149,Delhi,16-03-2025,Clothing,1,6504.0,20,Debit Card,Delivered,1.0,4.0,5203.2
+ORD10150,CUST1150,Customer_150,,16-03-2025,Grocery,4,7545.0,15,Credit Card,Shipped,4.0,5.0,25653.0
+ORD10151,CUST1151,Customer_151,Gurgaon,17-03-2025,Clothing,1,13116.0,0,UPI,Shipped,2.0,7.0,13116.0
+ORD10152,CUST1152,Customer_152,Gurgaon,17-03-2025,Home & Kitchen,4,8075.0,20,Net Banking,Returned,3.0,5.0,25840.0
+ORD10153,CUST1153,Customer_153,Delhi,18-03-2025,Home & Kitchen,4,9286.0,15,Debit Card,Delivered,2.0,4.0,31572.4
+ORD10154,CUST1154,Customer_154,Gurgaon,18-03-2025,Grocery,1,6833.0,10,Debit Card,Delivered,5.0,8.0,6149.7
+ORD10155,CUST1155,Customer_155,Faridabad,19-03-2025,Grocery,2,14862.0,0,Net Banking,Delivered,1.0,5.0,29724.0
+ORD10156,CUST1156,Customer_156,Noida,19-03-2025,Clothing,2,797.0,0,UPI,Returned,4.0,3.0,1594.0
+ORD10157,CUST1157,Customer_157,Lucknow,20-03-2025,Beauty,4,3262.0,10,Credit Card,Delivered,5.0,6.0,11743.2
+ORD10158,CUST1158,Customer_158,Noida,20-03-2025,Clothing,1,2536.0,10,Debit Card,Cancelled,5.0,2.0,2282.4
+ORD10159,CUST1159,Customer_159,Delhi,21-03-2025,Grocery,2,13080.0,0,Credit Card,Shipped,5.0,5.0,26160.0
+ORD10160,CUST1160,Customer_160,Ghaziabad,21-03-2025,Sports,1,10079.0,10,Cash on Delivery,Cancelled,1.0,3.0,9071.1
+ORD10161,CUST1161,Customer_161,Lucknow,22-03-2025,Grocery,1,772.0,5,UPI,Shipped,3.0,2.0,733.4
+ORD10162,CUST1162,Customer_162,Delhi,22-03-2025,Sports,1,7721.0,15,Cash on Delivery,Shipped,1.0,8.0,6562.85
+ORD10163,CUST1163,Customer_163,Chandigarh,23-03-2025,Electronics,5,6371.0,15,Cash on Delivery,Cancelled,3.0,7.0,27076.75
+ORD10164,CUST1164,Customer_164,Ghaziabad,23-03-2025,Grocery,1,7297.0,15,Cash on Delivery,Cancelled,5.0,2.0,6202.45
+ORD10165,CUST1165,Customer_165,Noida,24-03-2025,Electronics,5,2290.0,5,UPI,Delivered,5.0,7.0,10877.5
+ORD10166,CUST1166,Customer_166,Delhi,24-03-2025,Beauty,4,14192.0,10,UPI,Returned,4.0,5.0,51091.2
+ORD10167,CUST1167,Customer_167,Chandigarh,25-03-2025,Clothing,2,6766.0,20,Net Banking,Returned,3.0,3.0,10825.6
+ORD10168,CUST1168,Customer_168,Lucknow,25-03-2025,Sports,2,12061.0,10,Credit Card,Cancelled,5.0,6.0,21709.8
+ORD10169,CUST1169,Customer_169,Lucknow,26-03-2025,Clothing,2,12664.0,0,Credit Card,Delivered,2.0,5.0,25328.0
+ORD10170,CUST1170,Customer_170,Jaipur,26-03-2025,Electronics,2,4824.0,25,Net Banking,Returned,4.0,7.0,7236.0
+ORD10171,CUST1171,Customer_171,Chandigarh,27-03-2025,Sports,2,1833.0,15,Net Banking,Delivered,1.0,4.0,3116.1
+ORD10172,CUST1172,Customer_172,Faridabad,27-03-2025,Clothing,2,13453.0,10,Cash on Delivery,Delivered,4.0,2.0,24215.4
+ORD10173,CUST1173,Customer_173,Gurgaon,28-03-2025,Grocery,2,1717.0,20,Net Banking,Shipped,2.0,5.0,2747.2
+ORD10174,CUST1174,Customer_174,Ghaziabad,28-03-2025,Home & Kitchen,4,12685.0,0,Debit Card,Returned,3.0,7.0,50740.0
+ORD10175,CUST1175,Customer_175,Chandigarh,29-03-2025,Electronics,1,11049.0,5,Credit Card,Returned,1.0,8.0,10496.55
+ORD10176,CUST1176,Customer_176,Jaipur,29-03-2025,Clothing,3,3848.0,5,Net Banking,Shipped,1.0,2.0,10966.8
+ORD10177,CUST1177,Customer_177,Gurgaon,30-03-2025,Electronics,5,13340.0,20,Debit Card,Cancelled,3.0,8.0,53360.0
+ORD10178,CUST1178,Customer_178,Gurgaon,30-03-2025,Electronics,3,11980.0,0,Debit Card,Shipped,4.0,7.0,35940.0
+ORD10179,CUST1179,Customer_179,Delhi,31-03-2025,Sports,3,1737.0,15,Debit Card,Returned,5.0,3.0,4429.35
+ORD10180,CUST1180,Customer_180,Gurgaon,31-03-2025,Sports,1,14557.0,10,Debit Card,Returned,4.0,1.0,13101.3
+ORD10181,CUST1181,Customer_181,Faridabad,01-04-2025,Home & Kitchen,1,13568.0,0,Cash on Delivery,Cancelled,,8.0,13568.0
+ORD10182,CUST1182,Customer_182,Lucknow,01-04-2025,Grocery,1,3337.0,5,Debit Card,Shipped,5.0,5.0,3170.15
+ORD10183,CUST1183,Customer_183,Jaipur,02-04-2025,Electronics,2,7185.0,20,Cash on Delivery,Delivered,4.0,6.0,11496.0
+ORD10184,CUST1184,Customer_184,Gurgaon,02-04-2025,Clothing,4,297.0,20,Cash on Delivery,Delivered,3.0,5.0,950.4
+ORD10185,CUST1185,Customer_185,Delhi,03-04-2025,Beauty,2,11607.0,10,Debit Card,Cancelled,,2.0,20892.6
+ORD10186,CUST1186,Customer_186,Faridabad,03-04-2025,Electronics,4,14391.0,20,Credit Card,Shipped,2.0,3.0,46051.2
+ORD10187,CUST1187,Customer_187,Noida,04-04-2025,Electronics,4,12922.0,20,Debit Card,Shipped,2.0,7.0,41350.4
+ORD10188,CUST1188,Customer_188,Lucknow,04-04-2025,Home & Kitchen,3,13124.0,0,Debit Card,Delivered,5.0,4.0,39372.0
+ORD10189,CUST1189,Customer_189,Lucknow,05-04-2025,Grocery,3,3950.0,15,Debit Card,Returned,1.0,6.0,10072.5
+ORD10190,CUST1190,Customer_190,Jaipur,05-04-2025,Beauty,4,11549.0,10,,Delivered,5.0,3.0,41576.4
+ORD10191,CUST1191,Customer_191,Lucknow,06-04-2025,Sports,4,13075.0,0,UPI,Cancelled,4.0,,52300.0
+ORD10192,CUST1192,Customer_192,Gurgaon,06-04-2025,Sports,2,8735.0,15,UPI,Delivered,1.0,8.0,14849.5
+ORD10193,CUST1193,Customer_193,Delhi,07-04-2025,Clothing,2,8374.0,0,Cash on Delivery,Delivered,4.0,5.0,16748.0
+ORD10194,CUST1194,Customer_194,Lucknow,07-04-2025,Beauty,3,8303.0,25,Cash on Delivery,Cancelled,1.0,4.0,18681.75
+ORD10195,CUST1195,Customer_195,Lucknow,08-04-2025,Sports,1,5613.0,0,Credit Card,Shipped,5.0,3.0,5613.0
+ORD10196,CUST1196,Customer_196,Noida,08-04-2025,Clothing,4,14467.0,20,Net Banking,Cancelled,2.0,1.0,46294.4
+ORD10197,CUST1197,Customer_197,Noida,2025/13/45,Grocery,2,4866.0,15,UPI,Delivered,,6.0,8272.2
+ORD10198,CUST1198,Customer_198,Ghaziabad,2025/13/45,Clothing,3,810.0,10,Cash on Delivery,Returned,2.0,2.0,2187.0
+ORD10199,CUST1199,Customer_199,Faridabad,10-04-2025,Sports,2,1927.0,10,UPI,Returned,5.0,3.0,3468.6
+ORD10200,CUST1200,Customer_200,Gurgaon,10-04-2025,Home & Kitchen,4,10682.0,15,Credit Card,Returned,1.0,3.0,36318.8
+ORD10201,CUST1201,Customer_201,Lucknow,11-04-2025,Home & Kitchen,4,2054.0,20,Credit Card,Shipped,2.0,1.0,6572.8
+ORD10202,CUST1202,Customer_202,Chandigarh,11-04-2025,Home & Kitchen,5,11000.0,5,Net Banking,Delivered,5.0,5.0,52250.0
+ORD10203,CUST1203,Customer_203,Lucknow,12-04-2025,Sports,1,5255.0,0,Net Banking,Cancelled,4.0,7.0,5255.0
+ORD10204,CUST1204,Customer_204,Delhi,12-04-2025,Home & Kitchen,5,10471.0,20,Credit Card,Returned,3.0,,41884.0
+ORD10205,CUST1205,Customer_205,Ghaziabad,13-04-2025,Beauty,3,14926.0,25,Cash on Delivery,Cancelled,2.0,6.0,33583.5
+ORD10206,CUST1206,Customer_206,Faridabad,13-04-2025,Grocery,2,2524.0,15,UPI,Returned,,6.0,4290.8
+ORD10207,CUST1207,Customer_207,Chandigarh,14-04-2025,Clothing,3,13019.0,0,Debit Card,Shipped,4.0,2.0,39057.0
+ORD10208,CUST1208,Customer_208,Ghaziabad,14-04-2025,Clothing,4,9569.0,10,Net Banking,Delivered,5.0,3.0,34448.4
+ORD10209,CUST1209,Customer_209,Jaipur,15-04-2025,Sports,5,,5,Debit Card,Delivered,3.0,4.0,70860.5
+ORD10210,CUST1210,Customer_210,Faridabad,15-04-2025,Home & Kitchen,5,9483.0,25,Cash on Delivery,Returned,1.0,3.0,35561.25
+ORD10211,CUST1211,Customer_211,Lucknow,16-04-2025,Home & Kitchen,5,14389.0,10,Net Banking,Shipped,5.0,7.0,64750.5
+ORD10212,CUST1212,Customer_212,Lucknow,16-04-2025,Electronics,3,13371.0,15,Debit Card,Delivered,5.0,2.0,34096.05
+ORD10213,CUST1213,Customer_213,Faridabad,17-04-2025,Grocery,4,14749.0,0,Cash on Delivery,Cancelled,2.0,3.0,58996.0
+ORD10214,CUST1214,Customer_214,Lucknow,17-04-2025,Beauty,2,5974.0,15,UPI,Cancelled,2.0,1.0,10155.8
+ORD10215,CUST1215,Customer_215,Gurgaon,18-04-2025,Clothing,2,6719.0,0,Cash on Delivery,Delivered,1.0,7.0,13438.0
+ORD10216,CUST1216,Customer_216,Faridabad,18-04-2025,Electronics,3,11183.0,20,Net Banking,Shipped,5.0,3.0,26839.2
+ORD10217,CUST1217,Customer_217,Ghaziabad,19-04-2025,Electronics,5,14748.0,5,Credit Card,Delivered,2.0,3.0,70053.0
+ORD10218,CUST1218,Customer_218,Faridabad,19-04-2025,Sports,1,14614.0,20,UPI,Returned,3.0,7.0,11691.2
+ORD10219,CUST1219,Customer_219,Chandigarh,20-04-2025,Clothing,3,,20,Debit Card,Delivered,3.0,4.0,4677.6
+ORD10220,CUST1220,Customer_220,Lucknow,20-04-2025,Sports,3,11067.0,15,Net Banking,Delivered,,7.0,28220.85
+ORD10221,CUST1221,Customer_221,Gurgaon,21-04-2025,Beauty,4,981.0,5,Credit Card,Cancelled,2.0,1.0,3727.8
+ORD10222,CUST1222,Customer_222,Gurgaon,21-04-2025,Electronics,2,7748.0,0,,Delivered,1.0,1.0,15496.0
+ORD10223,CUST1223,Customer_223,Jaipur,22-04-2025,Electronics,3,11440.0,0,Credit Card,Delivered,1.0,3.0,34320.0
+ORD10224,CUST1224,Customer_224,Ghaziabad,22-04-2025,Grocery,3,7023.0,25,Net Banking,Shipped,1.0,6.0,15801.75
+ORD10225,CUST1225,Customer_225,Noida,23-04-2025,Beauty,5,2305.0,10,Net Banking,Delivered,3.0,4.0,10372.5
+ORD10226,CUST1226,Customer_226,Noida,23-04-2025,Electronics,5,4067.0,25,Credit Card,Returned,2.0,3.0,15251.25
+ORD10227,CUST1227,Customer_227,Faridabad,24-04-2025,Beauty,1,7393.0,25,Cash on Delivery,Returned,,7.0,5544.75
+ORD10228,CUST1228,Customer_228,Jaipur,24-04-2025,Clothing,4,5176.0,0,Credit Card,Returned,3.0,3.0,20704.0
+ORD10229,CUST1229,Customer_229,Delhi,25-04-2025,Home & Kitchen,1,12934.0,15,Net Banking,Cancelled,1.0,2.0,10993.9
+ORD10230,CUST1230,Customer_230,Faridabad,Not Available,Electronics,5,2313.0,20,,Delivered,1.0,2.0,9252.0
+ORD10231,CUST1231,Customer_231,Jaipur,26-04-2025,Grocery,2,6079.0,20,Debit Card,Shipped,5.0,6.0,9726.4
+ORD10232,CUST1232,Customer_232,Ghaziabad,26-04-2025,Clothing,5,13765.0,20,Debit Card,Delivered,,4.0,55060.0
+ORD10233,CUST1233,Customer_233,Ghaziabad,27-04-2025,Beauty,4,4170.0,5,UPI,Cancelled,2.0,5.0,15846.0
+ORD10234,CUST1234,Customer_234,Ghaziabad,27-04-2025,Sports,5,10383.0,0,Net Banking,Delivered,2.0,8.0,51915.0
+ORD10235,CUST1235,Customer_235,Ghaziabad,28-04-2025,Clothing,4,9459.0,15,Debit Card,Cancelled,2.0,2.0,32160.6
+ORD10236,CUST1236,Customer_236,Ghaziabad,28-04-2025,Electronics,4,7464.0,5,Credit Card,Returned,4.0,5.0,28363.2
+ORD10237,CUST1237,Customer_237,Jaipur,29-04-2025,Beauty,4,1777.0,10,Cash on Delivery,Delivered,5.0,1.0,6397.2
+ORD10238,CUST1238,Customer_238,Jaipur,29-04-2025,Home & Kitchen,4,9403.0,15,,Returned,4.0,2.0,31970.2
+ORD10239,CUST1239,Customer_239,Gurgaon,30-04-2025,Clothing,4,2474.0,25,Cash on Delivery,Delivered,1.0,2.0,7422.0
+ORD10240,CUST1240,Customer_240,Chandigarh,30-04-2025,Electronics,2,5069.0,15,Debit Card,Cancelled,1.0,4.0,8617.3
+ORD10241,CUST1241,Customer_241,Noida,01-05-2025,Grocery,1,10206.0,15,UPI,Cancelled,2.0,6.0,8675.1
+ORD10242,CUST1242,Customer_242,Lucknow,01-05-2025,Sports,3,6944.0,20,Credit Card,Shipped,3.0,5.0,16665.6
+ORD10243,CUST1243,Customer_243,Ghaziabad,02-05-2025,Beauty,1,2626.0,15,Credit Card,Delivered,2.0,7.0,2232.1
+ORD10244,CUST1244,Customer_244,Delhi,02-05-2025,Clothing,4,13689.0,25,Credit Card,Delivered,3.0,2.0,41067.0
+ORD10245,CUST1245,Customer_245,Lucknow,03-05-2025,Clothing,2,5746.0,25,Cash on Delivery,Delivered,4.0,2.0,8619.0
+ORD10246,CUST1246,Customer_246,Jaipur,03-05-2025,Home & Kitchen,5,7052.0,0,Debit Card,Shipped,1.0,4.0,35260.0
+ORD10247,CUST1247,Customer_247,,04-05-2025,Home & Kitchen,2,12794.0,15,Credit Card,Shipped,3.0,4.0,21749.8
+ORD10248,CUST1248,Customer_248,Delhi,04-05-2025,Grocery,4,13266.0,20,Credit Card,Delivered,4.0,6.0,42451.2
+ORD10249,CUST1249,Customer_249,Delhi,05-05-2025,Sports,2,2751.0,15,UPI,Returned,1.0,5.0,4676.7
+ORD10250,CUST1250,Customer_250,Gurgaon,05-05-2025,Grocery,2,6611.0,10,UPI,Delivered,3.0,1.0,11899.8
+ORD10251,CUST1251,Customer_251,Jaipur,06-05-2025,Electronics,4,12049.0,10,Debit Card,Cancelled,2.0,7.0,43376.4
+ORD10252,CUST1252,Customer_252,Delhi,06-05-2025,Electronics,2,207.0,20,Debit Card,Returned,2.0,6.0,331.2
+ORD10253,CUST1253,Customer_253,Ghaziabad,07-05-2025,Grocery,3,8287.0,0,Net Banking,Delivered,2.0,8.0,24861.0
+ORD10254,CUST1254,Customer_254,Faridabad,07-05-2025,Sports,3,2755.0,0,UPI,Delivered,4.0,1.0,8265.0
+ORD10255,CUST1255,Customer_255,Delhi,08-05-2025,Grocery,2,675.0,25,Net Banking,Shipped,2.0,3.0,1012.5
+ORD10256,CUST1256,Customer_256,Gurgaon,08-05-2025,Sports,5,5616.0,25,Cash on Delivery,Returned,5.0,2.0,21060.0
+ORD10257,CUST1257,Customer_257,Lucknow,09-05-2025,Sports,4,10603.0,5,Net Banking,Delivered,1.0,5.0,40291.4
+ORD10258,CUST1258,Customer_258,Jaipur,09-05-2025,Beauty,3,8876.0,20,Credit Card,Delivered,4.0,6.0,21302.4
+ORD10259,CUST1259,Customer_259,Chandigarh,10-05-2025,Sports,5,7439.0,15,Net Banking,Delivered,2.0,2.0,31615.75
+ORD10260,CUST1260,Customer_260,Gurgaon,10-05-2025,Home & Kitchen,2,6910.0,20,Debit Card,Cancelled,,5.0,11056.0
+ORD10261,CUST1261,Customer_261,Delhi,11-05-2025,Sports,5,5200.0,5,Cash on Delivery,Delivered,3.0,5.0,24700.0
+ORD10262,CUST1262,Customer_262,Jaipur,11-05-2025,Sports,1,4854.0,25,Credit Card,Delivered,2.0,5.0,3640.5
+ORD10263,CUST1263,Customer_263,Faridabad,12-05-2025,Sports,3,8278.0,20,Net Banking,Delivered,1.0,2.0,19867.2
+ORD10264,CUST1264,Customer_264,Delhi,2025/05/12,Electronics,2,6263.0,20,Cash on Delivery,Cancelled,5.0,6.0,10020.8
+ORD10265,CUST1265,Customer_265,Gurgaon,13-05-2025,Home & Kitchen,4,2485.0,25,Cash on Delivery,Shipped,3.0,7.0,7455.0
+ORD10266,CUST1266,Customer_266,Noida,13-05-2025,Home & Kitchen,2,5423.0,5,Credit Card,Returned,5.0,4.0,10303.7
+ORD10267,CUST1267,Customer_267,Ghaziabad,14-05-2025,Grocery,4,13721.0,25,Net Banking,Cancelled,,2.0,41163.0
+ORD10268,CUST1268,Customer_268,Chandigarh,14-05-2025,Beauty,2,7171.0,0,Cash on Delivery,Delivered,5.0,8.0,14342.0
+ORD10269,CUST1269,Customer_269,,15-05-2025,Sports,5,12955.0,15,Cash on Delivery,Delivered,1.0,5.0,55058.75
+ORD10270,CUST1270,Customer_270,Gurgaon,15-05-2025,Clothing,5,3725.0,25,UPI,Delivered,1.0,6.0,13968.75
+ORD10271,CUST1271,Customer_271,Jaipur,16-05-2025,Beauty,5,11731.0,5,Cash on Delivery,Shipped,5.0,7.0,55722.25
+ORD10272,CUST1272,Customer_272,Chandigarh,16-05-2025,Beauty,1,14921.0,10,UPI,Delivered,1.0,3.0,13428.9
+ORD10273,CUST1273,Customer_273,Chandigarh,17-05-2025,Home & Kitchen,4,3022.0,0,Net Banking,Cancelled,2.0,8.0,12088.0
+ORD10274,CUST1274,Customer_274,Chandigarh,17-05-2025,Beauty,5,5143.0,10,Net Banking,Delivered,1.0,1.0,23143.5
+ORD10275,CUST1275,Customer_275,Delhi,18-05-2025,Sports,1,6730.0,25,Net Banking,Shipped,4.0,8.0,5047.5
+ORD10276,CUST1276,Customer_276,Ghaziabad,18-05-2025,Sports,4,11316.0,0,Debit Card,Shipped,1.0,5.0,45264.0
+ORD10277,CUST1277,Customer_277,,19-05-2025,Electronics,2,458.0,15,Net Banking,Shipped,4.0,3.0,778.6
+ORD10278,CUST1278,Customer_278,Jaipur,19-05-2025,Sports,1,482.0,25,Cash on Delivery,Cancelled,1.0,4.0,361.5
+ORD10279,CUST1279,Customer_279,Delhi,20-05-2025,Sports,3,14137.0,15,Credit Card,Shipped,1.0,7.0,36049.35
+ORD10280,CUST1280,Customer_280,Noida,20-05-2025,Home & Kitchen,1,2098.0,20,UPI,Delivered,5.0,7.0,1678.4
+ORD10281,CUST1281,Customer_281,Ghaziabad,21-05-2025,Sports,1,4335.0,10,Debit Card,Shipped,2.0,5.0,3901.5
+ORD10282,CUST1282,Customer_282,Ghaziabad,21-05-2025,Electronics,4,6829.0,0,Net Banking,Delivered,2.0,8.0,27316.0
+ORD10283,CUST1283,Customer_283,Jaipur,22-05-2025,Clothing,2,11368.0,15,Net Banking,Returned,3.0,8.0,19325.6
+ORD10284,CUST1284,Customer_284,Lucknow,22-05-2025,Home & Kitchen,3,10659.0,5,Credit Card,Delivered,5.0,7.0,30378.15
+ORD10285,CUST1285,Customer_285,Noida,23-05-2025,Clothing,5,3400.0,15,Credit Card,Returned,5.0,3.0,14450.0
+ORD10286,CUST1286,Customer_286,Gurgaon,23-05-2025,Home & Kitchen,5,5310.0,5,Debit Card,Delivered,,5.0,25222.5
+ORD10287,CUST1287,Customer_287,Delhi,24-05-2025,Grocery,1,,25,UPI,Cancelled,5.0,2.0,5525.25
+ORD10288,CUST1288,Customer_288,Faridabad,24-05-2025,Beauty,4,812.0,0,Net Banking,Delivered,2.0,6.0,3248.0
+ORD10289,CUST1289,Customer_289,Delhi,25-05-2025,Grocery,4,14403.0,15,Debit Card,Cancelled,5.0,3.0,48970.2
+ORD10290,CUST1290,Customer_290,Chandigarh,25-05-2025,Sports,5,887.0,15,Cash on Delivery,Cancelled,1.0,6.0,3769.75
+ORD10291,CUST1291,Customer_291,Delhi,26-05-2025,Clothing,3,3890.0,0,Cash on Delivery,Shipped,2.0,2.0,11670.0
+ORD10292,CUST1292,Customer_292,Gurgaon,26-05-2025,Sports,2,9004.0,15,Debit Card,Delivered,2.0,2.0,15306.8
+ORD10293,CUST1293,Customer_293,Delhi,Not Available,Beauty,3,2507.0,5,Net Banking,Returned,4.0,6.0,7144.95
+ORD10294,CUST1294,Customer_294,,27-05-2025,Home & Kitchen,2,7333.0,15,Debit Card,Shipped,5.0,3.0,12466.1
+ORD10295,CUST1295,Customer_295,Noida,28-05-2025,Beauty,5,11405.0,10,Net Banking,Shipped,5.0,6.0,51322.5
+ORD10296,CUST1296,Customer_296,Ghaziabad,28-05-2025,Electronics,2,6709.0,25,Credit Card,Cancelled,2.0,6.0,10063.5
+ORD10297,CUST1297,Customer_297,Jaipur,29-05-2025,Beauty,4,10173.0,20,Debit Card,Cancelled,1.0,1.0,32553.6
+ORD10298,CUST1298,Customer_298,Lucknow,29-05-2025,Electronics,1,6106.0,5,Net Banking,Returned,1.0,3.0,5800.7
+ORD10299,CUST1299,Customer_299,Faridabad,30-05-2025,Beauty,1,2791.0,10,Debit Card,Delivered,1.0,8.0,2511.9
+ORD10300,CUST1300,Customer_300,Chandigarh,30-05-2025,Electronics,5,11088.0,25,Debit Card,Delivered,5.0,8.0,41580.0
+ORD10301,CUST1301,Customer_301,Delhi,31-05-2025,Clothing,4,14035.0,0,Net Banking,Shipped,,,56140.0
+ORD10302,CUST1302,Customer_302,Delhi,31-05-2025,Sports,3,14418.0,5,Net Banking,Delivered,2.0,5.0,41091.3
+ORD10303,CUST1303,Customer_303,Gurgaon,01-06-2025,Sports,4,12350.0,20,UPI,Delivered,3.0,7.0,39520.0
+ORD10304,CUST1304,Customer_304,Jaipur,01-06-2025,Grocery,1,7383.0,25,Debit Card,Delivered,4.0,8.0,5537.25
+ORD10305,CUST1305,Customer_305,Noida,02-06-2025,Sports,1,,20,Cash on Delivery,Delivered,3.0,6.0,4358.4
+ORD10306,CUST1306,Customer_306,Faridabad,02-06-2025,Home & Kitchen,4,8966.0,0,Debit Card,Delivered,4.0,5.0,35864.0
+ORD10307,CUST1307,Customer_307,Ghaziabad,03-06-2025,Beauty,4,10302.0,0,Debit Card,Cancelled,1.0,8.0,41208.0
+ORD10308,CUST1308,Customer_308,Noida,03-06-2025,Grocery,1,5308.0,5,Net Banking,Shipped,5.0,3.0,5042.6
+ORD10309,CUST1309,Customer_309,Chandigarh,04-06-2025,Home & Kitchen,3,3804.0,15,Debit Card,Delivered,3.0,6.0,9700.2
+ORD10310,CUST1310,Customer_310,Jaipur,04-06-2025,Home & Kitchen,5,869.0,0,Debit Card,Shipped,4.0,7.0,4345.0
+ORD10311,CUST1311,Customer_311,Chandigarh,05-06-2025,Electronics,5,4564.0,25,Cash on Delivery,Delivered,5.0,5.0,17115.0
+ORD10312,CUST1312,Customer_312,Lucknow,05-06-2025,Sports,4,,15,Net Banking,Delivered,3.0,8.0,25598.6
+ORD10313,CUST1313,Customer_313,Ghaziabad,06-06-2025,Clothing,5,1483.0,10,Debit Card,Shipped,2.0,8.0,6673.5
+ORD10314,CUST1314,Customer_314,Lucknow,06-06-2025,Clothing,1,1123.0,20,Credit Card,Returned,4.0,4.0,898.4
+ORD10315,CUST1315,Customer_315,Gurgaon,07-06-2025,Grocery,1,1325.0,15,UPI,Delivered,2.0,8.0,1126.25
+ORD10316,CUST1316,Customer_316,Chandigarh,07-06-2025,Clothing,4,1729.0,20,Cash on Delivery,Delivered,1.0,2.0,5532.8
+ORD10317,CUST1317,Customer_317,Gurgaon,08-06-2025,Beauty,4,14246.0,15,Debit Card,Delivered,2.0,6.0,48436.4
+ORD10318,CUST1318,Customer_318,Delhi,08-06-2025,Clothing,4,9986.0,10,Credit Card,Delivered,2.0,7.0,35949.6
+ORD10319,CUST1319,Customer_319,,09-06-2025,Grocery,3,8638.0,0,Debit Card,Delivered,4.0,2.0,25914.0
+ORD10320,CUST1320,Customer_320,Jaipur,09-06-2025,Clothing,5,3911.0,10,Debit Card,Returned,1.0,1.0,17599.5
+ORD10321,CUST1321,Customer_321,Chandigarh,10-06-2025,Beauty,4,8204.0,0,Net Banking,Delivered,2.0,5.0,32816.0
+ORD10322,CUST1322,Customer_322,Faridabad,10-06-2025,Electronics,2,9952.0,0,Net Banking,Delivered,5.0,8.0,19904.0
+ORD10323,CUST1323,Customer_323,Ghaziabad,11-06-2025,Grocery,2,6474.0,20,Net Banking,Delivered,3.0,1.0,10358.4
+ORD10324,CUST1324,Customer_324,Noida,11-06-2025,Electronics,1,10792.0,25,Credit Card,Returned,2.0,7.0,8094.0
+ORD10325,CUST1325,Customer_325,Jaipur,12-06-2025,Electronics,5,10635.0,10,Debit Card,Returned,1.0,6.0,47857.5
+ORD10326,CUST1326,Customer_326,Jaipur,12-06-2025,Electronics,4,4064.0,15,UPI,Shipped,2.0,2.0,13817.6
+ORD10327,CUST1327,Customer_327,Gurgaon,13-06-2025,Home & Kitchen,2,10331.0,10,Cash on Delivery,Returned,3.0,,18595.8
+ORD10328,CUST1328,Customer_328,Lucknow,13-06-2025,Sports,5,13417.0,20,Net Banking,Delivered,1.0,5.0,53668.0
+ORD10329,CUST1329,Customer_329,Chandigarh,14-06-2025,Home & Kitchen,1,8033.0,0,Net Banking,Delivered,4.0,6.0,8033.0
+ORD10330,CUST1330,Customer_330,Chandigarh,14-06-2025,Sports,3,11461.0,20,Debit Card,Shipped,1.0,8.0,27506.4
+ORD10331,CUST1331,Customer_331,Delhi,15-06-2025,Electronics,5,6988.0,5,Debit Card,Delivered,4.0,4.0,33193.0
+ORD10332,CUST1332,Customer_332,Delhi,15-06-2025,Grocery,5,426.0,5,Credit Card,Delivered,1.0,4.0,2023.5
+ORD10333,CUST1333,Customer_333,Ghaziabad,16-06-2025,Sports,3,11939.0,15,Credit Card,Delivered,3.0,5.0,30444.45
+ORD10334,CUST1334,Customer_334,Gurgaon,16-06-2025,Beauty,5,464.0,20,Net Banking,Shipped,3.0,6.0,1856.0
+ORD10335,CUST1335,Customer_335,Jaipur,2025/13/45,Beauty,1,9787.0,15,Debit Card,Returned,1.0,5.0,8318.95
+ORD10336,CUST1336,Customer_336,Chandigarh,17-06-2025,Clothing,1,11949.0,15,UPI,Delivered,2.0,6.0,10156.65
+ORD10337,CUST1337,Customer_337,Faridabad,18-06-2025,Sports,3,13945.0,5,Cash on Delivery,Cancelled,3.0,7.0,39743.25
+ORD10338,CUST1338,Customer_338,Gurgaon,18-06-2025,Grocery,4,845.0,15,Debit Card,Shipped,4.0,7.0,2873.0
+ORD10339,CUST1339,Customer_339,Ghaziabad,19-06-2025,Home & Kitchen,2,14746.0,5,Debit Card,Delivered,4.0,1.0,28017.4
+ORD10340,CUST1340,Customer_340,Ghaziabad,19-06-2025,Electronics,4,7744.0,0,Credit Card,Shipped,5.0,8.0,30976.0
+ORD10341,CUST1341,Customer_341,Gurgaon,20-06-2025,Clothing,5,13906.0,20,Cash on Delivery,Delivered,4.0,5.0,55624.0
+ORD10342,CUST1342,Customer_342,,20-06-2025,Beauty,2,5769.0,15,Net Banking,Returned,5.0,8.0,9807.3
+ORD10343,CUST1343,Customer_343,Gurgaon,21-06-2025,Home & Kitchen,3,3190.0,5,Debit Card,Returned,1.0,6.0,9091.5
+ORD10344,CUST1344,Customer_344,Noida,21-06-2025,Home & Kitchen,3,13875.0,10,Net Banking,Shipped,,4.0,37462.5
+ORD10345,CUST1345,Customer_345,Gurgaon,22-06-2025,Electronics,2,10291.0,15,Debit Card,Delivered,1.0,8.0,17494.7
+ORD10346,CUST1346,Customer_346,Lucknow,22-06-2025,Sports,1,2704.0,25,Net Banking,Delivered,2.0,6.0,2028.0
+ORD10347,CUST1347,Customer_347,Gurgaon,23-06-2025,Beauty,2,11164.0,0,Cash on Delivery,Cancelled,2.0,7.0,22328.0
+ORD10348,CUST1348,Customer_348,Ghaziabad,23-06-2025,Grocery,5,13737.0,0,Credit Card,Cancelled,5.0,6.0,68685.0
+ORD10349,CUST1349,Customer_349,Chandigarh,24-06-2025,Home & Kitchen,1,13469.0,10,Cash on Delivery,Returned,4.0,,12122.1
+ORD10350,CUST1350,Customer_350,Lucknow,24-06-2025,Electronics,3,9546.0,5,UPI,Cancelled,4.0,1.0,27206.1
+ORD10351,CUST1001,Customer_1,Ghaziabad,25-06-2025,Grocery,2,787.0,15,Credit Card,Delivered,1.0,1.0,1337.9
+ORD10352,CUST1002,Customer_2,Delhi,25-06-2025,Sports,4,12963.0,5,Cash on Delivery,Cancelled,3.0,1.0,49259.4
+ORD10353,CUST1003,Customer_3,,26-06-2025,Beauty,4,10213.0,0,UPI,Delivered,2.0,1.0,40852.0
+ORD10354,CUST1004,Customer_4,Chandigarh,26-06-2025,Sports,5,9377.0,5,Debit Card,Cancelled,2.0,7.0,44540.75
+ORD10355,CUST1005,Customer_5,Chandigarh,27-06-2025,Home & Kitchen,4,,0,Debit Card,Returned,1.0,3.0,17116.0
+ORD10356,CUST1006,Customer_6,Lucknow,27-06-2025,Grocery,2,3548.0,5,Net Banking,Returned,2.0,8.0,6741.2
+ORD10357,CUST1007,Customer_7,Noida,28-06-2025,Grocery,2,6499.0,10,Credit Card,Delivered,1.0,5.0,11698.2
+ORD10358,CUST1008,Customer_8,Chandigarh,28-06-2025,Grocery,4,4031.0,20,Debit Card,Shipped,5.0,2.0,12899.2
+ORD10359,CUST1009,Customer_9,Delhi,29-06-2025,Home & Kitchen,2,9633.0,10,Credit Card,Returned,4.0,5.0,17339.4
+ORD10360,CUST1010,Customer_10,Gurgaon,29-06-2025,Home & Kitchen,5,8581.0,10,Debit Card,Shipped,3.0,3.0,38614.5
+ORD10361,CUST1011,Customer_11,Ghaziabad,30-06-2025,Sports,1,13928.0,20,Net Banking,Delivered,4.0,1.0,11142.4
+ORD10362,CUST1012,Customer_12,Delhi,30-06-2025,Clothing,5,9372.0,20,Cash on Delivery,Delivered,4.0,3.0,37488.0
+ORD10363,CUST1013,Customer_13,Delhi,01-07-2025,Sports,5,10090.0,15,Net Banking,Returned,5.0,4.0,42882.5
+ORD10364,CUST1014,Customer_14,Noida,01-07-2025,Beauty,2,1915.0,15,UPI,Delivered,2.0,4.0,3255.5
+ORD10365,CUST1015,Customer_15,Lucknow,02-07-2025,Electronics,1,10985.0,10,Debit Card,Delivered,3.0,8.0,9886.5
+ORD10366,CUST1016,Customer_16,Lucknow,02-07-2025,Grocery,2,12528.0,10,UPI,Shipped,2.0,,22550.4
+ORD10367,CUST1017,Customer_17,Jaipur,03-07-2025,Clothing,3,6650.0,0,UPI,Returned,4.0,5.0,19950.0
+ORD10368,CUST1018,Customer_18,Noida,03-07-2025,Electronics,2,13430.0,0,Credit Card,Delivered,1.0,5.0,26860.0
+ORD10369,CUST1019,Customer_19,Gurgaon,04-07-2025,Clothing,2,12825.0,15,Debit Card,Cancelled,4.0,2.0,21802.5
+ORD10370,CUST1020,Customer_20,Lucknow,04-07-2025,Sports,2,5633.0,25,UPI,Delivered,2.0,7.0,8449.5
+ORD10371,CUST1021,Customer_21,Ghaziabad,05-07-2025,Home & Kitchen,1,1298.0,25,Cash on Delivery,Shipped,4.0,2.0,973.5
+ORD10372,CUST1022,Customer_22,Chandigarh,05-07-2025,Grocery,2,7296.0,15,UPI,Delivered,1.0,4.0,12403.2
+ORD10373,CUST1023,Customer_23,Noida,06-07-2025,Sports,1,2526.0,0,Cash on Delivery,Delivered,5.0,1.0,2526.0
+ORD10374,CUST1024,Customer_24,Chandigarh,06-07-2025,Electronics,4,11639.0,0,,Delivered,2.0,3.0,46556.0
+ORD10375,CUST1025,Customer_25,Delhi,07-07-2025,Electronics,3,9287.0,25,UPI,Delivered,4.0,2.0,20895.75
+ORD10376,CUST1026,Customer_26,Ghaziabad,07-07-2025,Electronics,1,6616.0,5,Net Banking,Returned,2.0,6.0,6285.2
+ORD10377,CUST1027,Customer_27,Ghaziabad,08-07-2025,Electronics,4,,5,Credit Card,Cancelled,5.0,2.0,27284.0
+ORD10378,CUST1028,Customer_28,Delhi,08-07-2025,Electronics,1,6963.0,0,Cash on Delivery,Delivered,4.0,1.0,6963.0
+ORD10379,CUST1029,Customer_29,Noida,09-07-2025,Clothing,1,1874.0,5,Credit Card,Delivered,4.0,1.0,1780.3
+ORD10380,CUST1030,Customer_30,Delhi,09-07-2025,Sports,3,11301.0,20,UPI,Shipped,2.0,5.0,27122.4
+ORD10381,CUST1031,Customer_31,Chandigarh,10-07-2025,Grocery,5,8150.0,15,Debit Card,Returned,2.0,3.0,34637.5
+ORD10382,CUST1032,Customer_32,Jaipur,10-07-2025,Home & Kitchen,5,9322.0,15,Debit Card,Returned,1.0,1.0,39618.5
+ORD10383,CUST1033,Customer_33,Ghaziabad,11-07-2025,Home & Kitchen,1,12776.0,0,Cash on Delivery,Delivered,5.0,7.0,12776.0
+ORD10384,CUST1034,Customer_34,Faridabad,11-07-2025,Sports,2,9115.0,10,Cash on Delivery,Returned,1.0,2.0,16407.0
+ORD10385,CUST1035,Customer_35,Faridabad,12-07-2025,Sports,4,11332.0,25,Debit Card,Shipped,4.0,2.0,33996.0
+ORD10386,CUST1036,Customer_36,Chandigarh,12-07-2025,Home & Kitchen,2,14807.0,0,Cash on Delivery,Delivered,2.0,4.0,29614.0
+ORD10387,CUST1037,Customer_37,Gurgaon,13-07-2025,Home & Kitchen,2,6249.0,5,Credit Card,Delivered,4.0,1.0,11873.1
+ORD10388,CUST1038,Customer_38,Lucknow,13-07-2025,Clothing,1,1289.0,25,Net Banking,Returned,4.0,6.0,966.75
+ORD10389,CUST1039,Customer_39,Delhi,14-07-2025,Beauty,1,4778.0,10,Net Banking,Returned,3.0,5.0,4300.2
+ORD10390,CUST1040,Customer_40,Delhi,14-07-2025,Grocery,1,9327.0,5,Credit Card,Shipped,,3.0,8860.65
+ORD10391,CUST1041,Customer_41,Gurgaon,15-07-2025,Electronics,1,10687.0,20,Net Banking,Cancelled,4.0,6.0,8549.6
+ORD10392,CUST1042,Customer_42,Gurgaon,15-07-2025,Beauty,5,355.0,5,UPI,Cancelled,2.0,5.0,1686.25
+ORD10393,CUST1043,Customer_43,Chandigarh,16-07-2025,Sports,1,9462.0,20,Credit Card,Returned,4.0,2.0,7569.6
+ORD10394,CUST1044,Customer_44,Chandigarh,16-07-2025,Home & Kitchen,5,2158.0,25,Cash on Delivery,Delivered,3.0,6.0,8092.5
+ORD10395,CUST1045,Customer_45,Gurgaon,17-07-2025,Beauty,5,10893.0,20,Credit Card,Delivered,2.0,5.0,43572.0
+ORD10396,CUST1046,Customer_46,Ghaziabad,17-07-2025,Grocery,1,6544.0,25,Debit Card,Returned,4.0,2.0,4908.0
+ORD10397,CUST1047,Customer_47,Chandigarh,18-07-2025,Sports,3,5979.0,25,Cash on Delivery,Delivered,5.0,2.0,13452.75
+ORD10398,CUST1048,Customer_48,Jaipur,18-07-2025,Electronics,4,12611.0,25,Debit Card,Delivered,5.0,2.0,37833.0
+ORD10399,CUST1049,Customer_49,Chandigarh,19-07-2025,Electronics,2,6344.0,25,Cash on Delivery,Cancelled,4.0,2.0,9516.0
+ORD10400,CUST1050,Customer_50,Delhi,19-07-2025,Grocery,5,5263.0,25,,Returned,2.0,7.0,19736.25
+ORD10401,CUST1051,Customer_51,Chandigarh,20-07-2025,Grocery,4,4030.0,5,Credit Card,Shipped,4.0,2.0,15314.0
+ORD10402,CUST1052,Customer_52,Ghaziabad,20-07-2025,Home & Kitchen,3,9246.0,25,UPI,Delivered,4.0,4.0,20803.5
+ORD10403,CUST1053,Customer_53,Gurgaon,21-07-2025,Electronics,2,9031.0,5,Cash on Delivery,Returned,3.0,6.0,17158.9
+ORD10404,CUST1054,Customer_54,Delhi,21-07-2025,Sports,2,10630.0,25,Cash on Delivery,Delivered,5.0,5.0,15945.0
+ORD10405,CUST1055,Customer_55,Chandigarh,22-07-2025,Beauty,5,9994.0,20,Debit Card,Delivered,3.0,4.0,39976.0
+ORD10406,CUST1056,Customer_56,Ghaziabad,2025/13/45,Sports,1,6859.0,25,Net Banking,Returned,3.0,7.0,5144.25
+ORD10407,CUST1057,Customer_57,Jaipur,23-07-2025,Clothing,3,641.0,10,Debit Card,Delivered,4.0,8.0,1730.7
+ORD10408,CUST1058,Customer_58,Chandigarh,23-07-2025,Clothing,5,6240.0,25,Debit Card,Delivered,3.0,,23400.0
+ORD10409,CUST1059,Customer_59,Ghaziabad,24-07-2025,Grocery,3,14326.0,25,Net Banking,Delivered,5.0,4.0,32233.5
+ORD10410,CUST1060,Customer_60,Jaipur,24-07-2025,Home & Kitchen,1,6125.0,20,UPI,Delivered,3.0,1.0,4900.0
+ORD10411,CUST1061,Customer_61,Gurgaon,2025/13/45,Clothing,1,14678.0,15,Debit Card,Delivered,5.0,1.0,12476.3
+ORD10412,CUST1062,Customer_62,Chandigarh,25-07-2025,Electronics,5,7558.0,20,Debit Card,Delivered,,1.0,30232.0
+ORD10413,CUST1063,Customer_63,Jaipur,26-07-2025,Sports,1,4828.0,10,Cash on Delivery,Delivered,,3.0,4345.2
+ORD10414,CUST1064,Customer_64,Delhi,26-07-2025,Sports,4,6570.0,15,Net Banking,Cancelled,3.0,1.0,22338.0
+ORD10415,CUST1065,Customer_65,Gurgaon,27-07-2025,Grocery,2,9728.0,0,Credit Card,Delivered,3.0,5.0,19456.0
+ORD10416,CUST1066,Customer_66,Delhi,27-07-2025,Beauty,5,12092.0,0,UPI,Returned,2.0,4.0,60460.0
+ORD10417,CUST1067,Customer_67,Faridabad,28-07-2025,Grocery,3,1148.0,10,UPI,Delivered,5.0,5.0,3099.6
+ORD10418,CUST1068,Customer_68,Noida,28-07-2025,Beauty,4,11765.0,20,Net Banking,Shipped,5.0,6.0,37648.0
+ORD10419,CUST1069,Customer_69,Chandigarh,29-07-2025,Grocery,5,8379.0,5,Cash on Delivery,Delivered,5.0,1.0,39800.25
+ORD10420,CUST1070,Customer_70,Jaipur,29-07-2025,Grocery,1,6315.0,10,Cash on Delivery,Delivered,1.0,7.0,5683.5
+ORD10421,CUST1071,Customer_71,Noida,30-07-2025,Grocery,1,659.0,15,Net Banking,Shipped,3.0,3.0,560.15
+ORD10422,CUST1072,Customer_72,Noida,30-07-2025,Beauty,1,7768.0,15,Cash on Delivery,Cancelled,5.0,6.0,6602.8
+ORD10423,CUST1073,Customer_73,Jaipur,31-07-2025,Beauty,1,4846.0,25,UPI,Shipped,1.0,7.0,3634.5
+ORD10424,CUST1074,Customer_74,Gurgaon,31-07-2025,Grocery,3,592.0,0,UPI,Delivered,2.0,3.0,1776.0
+ORD10425,CUST1075,Customer_75,Chandigarh,2025/13/45,Clothing,4,12330.0,15,Credit Card,Shipped,5.0,8.0,41922.0
+ORD10426,CUST1076,Customer_76,Faridabad,01-08-2025,Home & Kitchen,2,1987.0,10,Net Banking,Delivered,5.0,6.0,3576.6
+ORD10427,CUST1077,Customer_77,Delhi,02-08-2025,Home & Kitchen,3,13332.0,15,Debit Card,Shipped,1.0,8.0,33996.6
+ORD10428,CUST1078,Customer_78,Ghaziabad,02-08-2025,Home & Kitchen,3,7574.0,10,Debit Card,Delivered,,4.0,20449.8
+ORD10429,CUST1079,Customer_79,Delhi,03-08-2025,Beauty,2,10649.0,5,Credit Card,Returned,2.0,5.0,20233.1
+ORD10430,CUST1080,Customer_80,Ghaziabad,03-08-2025,Beauty,2,1338.0,25,Credit Card,Delivered,5.0,2.0,2007.0
+ORD10431,CUST1081,Customer_81,Delhi,04-08-2025,Clothing,1,12200.0,0,Cash on Delivery,Shipped,3.0,5.0,12200.0
+ORD10432,CUST1082,Customer_82,Jaipur,04-08-2025,Home & Kitchen,3,4941.0,15,Credit Card,Delivered,2.0,1.0,12599.55
+ORD10433,CUST1083,Customer_83,Faridabad,05-08-2025,Home & Kitchen,5,7618.0,10,Credit Card,Returned,4.0,8.0,34281.0
+ORD10434,CUST1084,Customer_84,Chandigarh,05-08-2025,Grocery,2,6562.0,20,Debit Card,Delivered,4.0,7.0,10499.2
+ORD10435,CUST1085,Customer_85,Ghaziabad,06-08-2025,Beauty,2,2654.0,0,Cash on Delivery,Delivered,2.0,2.0,5308.0
+ORD10436,CUST1086,Customer_86,Chandigarh,06-08-2025,Home & Kitchen,4,9858.0,5,Credit Card,Cancelled,1.0,3.0,37460.4
+ORD10437,CUST1087,Customer_87,Chandigarh,07-08-2025,Sports,5,3874.0,10,Credit Card,Delivered,2.0,8.0,17433.0
+ORD10438,CUST1088,Customer_88,Chandigarh,07-08-2025,Clothing,5,1577.0,25,Cash on Delivery,Cancelled,2.0,4.0,5913.75
+ORD10439,CUST1089,Customer_89,Lucknow,08-08-2025,Sports,2,6901.0,25,Net Banking,Delivered,1.0,4.0,10351.5
+ORD10440,CUST1090,Customer_90,Gurgaon,08-08-2025,Sports,1,2797.0,5,Cash on Delivery,Shipped,1.0,8.0,2657.15
+ORD10441,CUST1091,Customer_91,Delhi,Not Available,Clothing,4,,5,Debit Card,Delivered,3.0,8.0,1295.8
+ORD10442,CUST1092,Customer_92,Chandigarh,09-08-2025,Sports,5,2859.0,25,,Shipped,3.0,8.0,10721.25
+ORD10443,CUST1093,Customer_93,,10-08-2025,Home & Kitchen,2,4796.0,15,UPI,Delivered,1.0,3.0,8153.2
+ORD10444,CUST1094,Customer_94,Chandigarh,10-08-2025,Beauty,5,9231.0,15,Cash on Delivery,Delivered,4.0,1.0,39231.75
+ORD10445,CUST1095,Customer_95,Ghaziabad,11-08-2025,Clothing,4,12010.0,10,Debit Card,Delivered,4.0,3.0,43236.0
+ORD10446,CUST1096,Customer_96,Gurgaon,11-08-2025,Grocery,4,14170.0,20,Net Banking,Returned,2.0,6.0,45344.0
+ORD10447,CUST1097,Customer_97,Gurgaon,12-08-2025,Sports,3,5861.0,10,Cash on Delivery,Delivered,5.0,7.0,15824.7
+ORD10448,CUST1098,Customer_98,Jaipur,12-08-2025,Clothing,2,6342.0,20,Credit Card,Delivered,2.0,8.0,10147.2
+ORD10449,CUST1099,Customer_99,Lucknow,13-08-2025,Electronics,4,12309.0,5,Cash on Delivery,Shipped,2.0,7.0,46774.2
+ORD10450,CUST1100,Customer_100,Jaipur,13-08-2025,Electronics,3,5826.0,0,UPI,Shipped,5.0,1.0,17478.0
+ORD10451,CUST1101,Customer_101,Jaipur,14-08-2025,Beauty,3,8987.0,10,Cash on Delivery,Cancelled,1.0,,24264.9
+ORD10452,CUST1102,Customer_102,Jaipur,14-08-2025,Home & Kitchen,5,10296.0,10,Net Banking,Delivered,4.0,3.0,46332.0
+ORD10453,CUST1103,Customer_103,Jaipur,15-08-2025,Beauty,5,,20,Net Banking,Delivered,2.0,1.0,34688.0
+ORD10454,CUST1104,Customer_104,Jaipur,15-08-2025,Beauty,3,623.0,5,Cash on Delivery,Delivered,5.0,7.0,1775.55
+ORD10455,CUST1105,Customer_105,Faridabad,16-08-2025,Beauty,5,7199.0,5,Net Banking,Shipped,3.0,2.0,34195.25
+ORD10456,CUST1106,Customer_106,Gurgaon,16-08-2025,Beauty,4,12757.0,20,Credit Card,Cancelled,2.0,3.0,40822.4
+ORD10457,CUST1107,Customer_107,Jaipur,17-08-2025,Grocery,1,,5,Cash on Delivery,Delivered,4.0,4.0,4226.55
+ORD10458,CUST1108,Customer_108,Chandigarh,17-08-2025,Grocery,4,1950.0,25,Credit Card,Returned,1.0,3.0,5850.0
+ORD10459,CUST1109,Customer_109,Gurgaon,18-08-2025,Clothing,3,4957.0,15,Credit Card,Delivered,2.0,5.0,12640.35
+ORD10460,CUST1110,Customer_110,Gurgaon,18-08-2025,Electronics,3,2167.0,25,,Delivered,2.0,3.0,4875.75
+ORD10461,CUST1111,Customer_111,Noida,19-08-2025,Beauty,4,4288.0,0,Cash on Delivery,Shipped,5.0,5.0,17152.0
+ORD10462,CUST1112,Customer_112,Faridabad,19-08-2025,Clothing,5,4378.0,10,Net Banking,Returned,3.0,2.0,19701.0
+ORD10463,CUST1113,Customer_113,Jaipur,20-08-2025,Electronics,5,7989.0,0,Credit Card,Returned,3.0,3.0,39945.0
+ORD10464,CUST1114,Customer_114,Delhi,20-08-2025,Sports,3,3146.0,10,Debit Card,Returned,1.0,2.0,8494.2
+ORD10465,CUST1115,Customer_115,Ghaziabad,21-08-2025,Home & Kitchen,2,9841.0,15,Cash on Delivery,Delivered,4.0,2.0,16729.7
+ORD10466,CUST1116,Customer_116,Lucknow,Not Available,Grocery,5,5594.0,5,Cash on Delivery,Delivered,1.0,7.0,26571.5
+ORD10467,CUST1117,Customer_117,Chandigarh,22-08-2025,Sports,4,,25,UPI,Shipped,2.0,1.0,24240.0
+ORD10468,CUST1118,Customer_118,Delhi,22-08-2025,Electronics,5,10723.0,20,UPI,Shipped,,2.0,42892.0
+ORD10469,CUST1119,Customer_119,Faridabad,23-08-2025,Sports,4,5275.0,25,Credit Card,Returned,3.0,2.0,15825.0
+ORD10470,CUST1120,Customer_120,Ghaziabad,23-08-2025,Home & Kitchen,3,10612.0,15,UPI,Shipped,4.0,7.0,27060.6
+ORD10471,CUST1121,Customer_121,Faridabad,24-08-2025,Electronics,5,12181.0,0,Credit Card,Delivered,,7.0,60905.0
+ORD10472,CUST1122,Customer_122,Chandigarh,24-08-2025,Sports,4,7430.0,20,Net Banking,Delivered,4.0,3.0,23776.0
+ORD10473,CUST1123,Customer_123,Gurgaon,25-08-2025,Grocery,3,11202.0,5,Credit Card,Cancelled,,7.0,31925.7
+ORD10474,CUST1124,Customer_124,Ghaziabad,25-08-2025,Grocery,2,14147.0,15,UPI,Cancelled,5.0,3.0,24049.9
+ORD10475,CUST1125,Customer_125,Gurgaon,26-08-2025,Clothing,4,13886.0,20,Net Banking,Delivered,4.0,4.0,44435.2
+ORD10476,CUST1126,Customer_126,Chandigarh,26-08-2025,Sports,2,13120.0,15,UPI,Delivered,4.0,7.0,22304.0
+ORD10477,CUST1127,Customer_127,Delhi,27-08-2025,Beauty,2,1731.0,15,Credit Card,Delivered,5.0,1.0,2942.7
+ORD10478,CUST1128,Customer_128,Chandigarh,27-08-2025,Sports,1,13274.0,5,Debit Card,Delivered,2.0,2.0,12610.3
+ORD10479,CUST1129,Customer_129,Delhi,28-08-2025,Electronics,5,,10,Cash on Delivery,Cancelled,4.0,1.0,14355.0
+ORD10480,CUST1130,Customer_130,Ghaziabad,28-08-2025,Electronics,4,7355.0,20,UPI,Returned,5.0,5.0,23536.0
+ORD10481,CUST1131,Customer_131,Ghaziabad,29-08-2025,Sports,2,4693.0,5,Credit Card,Returned,,8.0,8916.7
+ORD10482,CUST1132,Customer_132,Jaipur,29-08-2025,Home & Kitchen,1,9535.0,15,Net Banking,Shipped,5.0,7.0,8104.75
+ORD10483,CUST1133,Customer_133,Faridabad,30-08-2025,Grocery,3,1133.0,5,UPI,Returned,5.0,2.0,3229.05
+ORD10484,CUST1134,Customer_134,,30-08-2025,Electronics,4,1660.0,10,UPI,Delivered,4.0,1.0,5976.0
+ORD10485,CUST1135,Customer_135,Faridabad,31-08-2025,Grocery,2,14340.0,25,Cash on Delivery,Cancelled,2.0,7.0,21510.0
+ORD10486,CUST1136,Customer_136,Jaipur,31-08-2025,Electronics,5,2923.0,20,Credit Card,Delivered,4.0,7.0,11692.0
+ORD10487,CUST1137,Customer_137,Gurgaon,01-09-2025,Clothing,1,10904.0,10,Debit Card,Returned,1.0,8.0,9813.6
+ORD10488,CUST1138,Customer_138,Ghaziabad,01-09-2025,Beauty,2,485.0,0,Net Banking,Cancelled,1.0,4.0,970.0
+ORD10489,CUST1139,Customer_139,Delhi,02-09-2025,Electronics,5,464.0,20,Credit Card,Returned,2.0,4.0,1856.0
+ORD10490,CUST1140,Customer_140,Faridabad,02-09-2025,Grocery,2,,10,Net Banking,Delivered,5.0,2.0,19366.2
+ORD10491,CUST1141,Customer_141,Chandigarh,03-09-2025,Clothing,4,7016.0,15,UPI,Delivered,4.0,5.0,23854.4
+ORD10492,CUST1142,Customer_142,Faridabad,03-09-2025,Electronics,4,11839.0,20,Cash on Delivery,Delivered,,4.0,37884.8
+ORD10493,CUST1143,Customer_143,,04-09-2025,Home & Kitchen,4,14624.0,20,Cash on Delivery,Delivered,2.0,8.0,46796.8
+ORD10494,CUST1144,Customer_144,Jaipur,04-09-2025,Beauty,1,14165.0,5,Debit Card,Cancelled,2.0,,13456.75
+ORD10495,CUST1145,Customer_145,Faridabad,05-09-2025,Electronics,4,13714.0,15,Cash on Delivery,Shipped,1.0,5.0,46627.6
+ORD10496,CUST1146,Customer_146,Lucknow,05-09-2025,Clothing,5,13308.0,0,UPI,Returned,3.0,1.0,66540.0
+ORD10497,CUST1147,Customer_147,,06-09-2025,Home & Kitchen,2,1962.0,25,Debit Card,Returned,2.0,4.0,2943.0
+ORD10498,CUST1148,Customer_148,Ghaziabad,06-09-2025,Sports,3,11440.0,10,Credit Card,Delivered,,8.0,30888.0
+ORD10499,CUST1149,Customer_149,Delhi,07-09-2025,Clothing,5,10773.0,5,Cash on Delivery,Delivered,2.0,3.0,51171.75
+ORD10500,CUST1150,Customer_150,Ghaziabad,07-09-2025,Clothing,5,10661.0,10,Debit Card,Returned,5.0,8.0,47974.5
+ORD10501,CUST1151,Customer_151,Lucknow,08-09-2025,Home & Kitchen,4,240.0,0,UPI,Cancelled,5.0,6.0,960.0
+ORD10502,CUST1152,Customer_152,Faridabad,08-09-2025,Clothing,1,6027.0,0,Net Banking,Shipped,1.0,6.0,6027.0
+ORD10503,CUST1153,Customer_153,Faridabad,09-09-2025,Home & Kitchen,2,8459.0,20,Net Banking,Cancelled,1.0,4.0,13534.4
+ORD10504,CUST1154,Customer_154,Chandigarh,09-09-2025,Electronics,1,1187.0,0,UPI,Delivered,3.0,1.0,1187.0
+ORD10505,CUST1155,Customer_155,Lucknow,10-09-2025,Home & Kitchen,2,14287.0,10,UPI,Delivered,2.0,7.0,25716.6
+ORD10506,CUST1156,Customer_156,Delhi,10-09-2025,Home & Kitchen,2,8004.0,15,Net Banking,Returned,4.0,1.0,13606.8
+ORD10507,CUST1157,Customer_157,Chandigarh,11-09-2025,Beauty,1,7989.0,15,Debit Card,Cancelled,,8.0,6790.65
+ORD10508,CUST1158,Customer_158,Gurgaon,11-09-2025,Home & Kitchen,5,5917.0,20,Net Banking,Delivered,4.0,2.0,23668.0
+ORD10509,CUST1159,Customer_159,Chandigarh,12-09-2025,Home & Kitchen,2,12400.0,25,UPI,Shipped,4.0,3.0,18600.0
+ORD10510,CUST1160,Customer_160,Noida,12-09-2025,Sports,1,14143.0,10,Cash on Delivery,Cancelled,2.0,1.0,12728.7
+ORD10511,CUST1161,Customer_161,Delhi,13-09-2025,Electronics,2,3398.0,10,Credit Card,Shipped,3.0,5.0,6116.4
+ORD10512,CUST1162,Customer_162,Noida,2025/13/45,Beauty,3,5574.0,0,Cash on Delivery,Returned,2.0,8.0,16722.0
+ORD10513,CUST1163,Customer_163,Lucknow,14-09-2025,Sports,5,4990.0,10,Cash on Delivery,Delivered,1.0,3.0,22455.0
+ORD10514,CUST1164,Customer_164,Jaipur,14-09-2025,Grocery,4,7383.0,5,UPI,Delivered,4.0,6.0,28055.4
+ORD10515,CUST1165,Customer_165,Noida,15-09-2025,Electronics,2,2724.0,25,Net Banking,Delivered,2.0,8.0,4086.0
+ORD10516,CUST1166,Customer_166,Gurgaon,15-09-2025,Electronics,3,9477.0,0,Debit Card,Delivered,2.0,3.0,28431.0
+ORD10517,CUST1167,Customer_167,Chandigarh,16-09-2025,Grocery,4,2679.0,5,Cash on Delivery,Shipped,2.0,5.0,10180.2
+ORD10518,CUST1168,Customer_168,Jaipur,16-09-2025,Home & Kitchen,4,10085.0,20,Net Banking,Returned,1.0,4.0,32272.0
+ORD10519,CUST1169,Customer_169,Chandigarh,17-09-2025,Sports,2,10707.0,15,Debit Card,Cancelled,3.0,5.0,18201.9
+ORD10520,CUST1170,Customer_170,Noida,17-09-2025,Clothing,1,5354.0,20,Cash on Delivery,Delivered,2.0,5.0,4283.2
+ORD10521,CUST1171,Customer_171,Chandigarh,18-09-2025,Beauty,2,978.0,15,Debit Card,Delivered,1.0,4.0,1662.6
+ORD10522,CUST1172,Customer_172,Lucknow,18-09-2025,Clothing,3,12981.0,20,Net Banking,Shipped,4.0,4.0,31154.4
+ORD10523,CUST1173,Customer_173,Jaipur,19-09-2025,Grocery,4,9977.0,10,Credit Card,Delivered,5.0,4.0,35917.2
+ORD10524,CUST1174,Customer_174,Lucknow,19-09-2025,Electronics,2,1692.0,5,Net Banking,Delivered,1.0,4.0,3214.8
+ORD10525,CUST1175,Customer_175,Noida,20-09-2025,Electronics,1,14278.0,15,UPI,Delivered,5.0,4.0,12136.3
+ORD10526,CUST1176,Customer_176,Lucknow,20-09-2025,Beauty,2,860.0,0,Debit Card,Shipped,2.0,5.0,1720.0
+ORD10527,CUST1177,Customer_177,Gurgaon,21-09-2025,Electronics,5,1548.0,5,Credit Card,Delivered,2.0,2.0,7353.0
+ORD10528,CUST1178,Customer_178,Noida,21-09-2025,Electronics,1,13815.0,0,Debit Card,Delivered,1.0,2.0,13815.0
+ORD10529,CUST1179,Customer_179,Noida,22-09-2025,Beauty,3,9691.0,5,Debit Card,Shipped,5.0,8.0,27619.35
+ORD10530,CUST1180,Customer_180,Noida,22-09-2025,Sports,4,12332.0,5,Cash on Delivery,Delivered,2.0,1.0,46861.6
+ORD10531,CUST1181,Customer_181,Delhi,23-09-2025,Sports,2,,20,UPI,Delivered,4.0,2.0,16604.8
+ORD10532,CUST1182,Customer_182,Chandigarh,23-09-2025,Beauty,1,8051.0,15,Debit Card,Cancelled,3.0,6.0,6843.35
+ORD10533,CUST1183,Customer_183,Delhi,24-09-2025,Grocery,5,7356.0,15,Net Banking,Returned,3.0,2.0,31263.0
+ORD10534,CUST1184,Customer_184,Delhi,24-09-2025,Electronics,1,2244.0,5,Net Banking,Delivered,2.0,5.0,2131.8
+ORD10535,CUST1185,Customer_185,Gurgaon,25-09-2025,Electronics,5,7568.0,10,Cash on Delivery,Shipped,5.0,4.0,34056.0
+ORD10536,CUST1186,Customer_186,,25-09-2025,Grocery,3,3716.0,10,UPI,Returned,2.0,8.0,10033.2
+ORD10537,CUST1187,Customer_187,Chandigarh,26-09-2025,Sports,4,14416.0,0,,Delivered,,4.0,57664.0
+ORD10538,CUST1188,Customer_188,Lucknow,26-09-2025,Home & Kitchen,3,13835.0,0,Net Banking,Delivered,4.0,7.0,41505.0
+ORD10539,CUST1189,Customer_189,Faridabad,27-09-2025,Home & Kitchen,2,9450.0,20,Credit Card,Delivered,5.0,7.0,15120.0
+ORD10540,CUST1190,Customer_190,Noida,27-09-2025,Home & Kitchen,1,9368.0,5,Cash on Delivery,Cancelled,2.0,7.0,8899.6
+ORD10541,CUST1191,Customer_191,Lucknow,28-09-2025,Sports,5,4777.0,0,Cash on Delivery,Delivered,4.0,5.0,23885.0
+ORD10542,CUST1192,Customer_192,Noida,28-09-2025,Sports,5,927.0,0,Net Banking,Returned,1.0,6.0,4635.0
+ORD10543,CUST1193,Customer_193,Gurgaon,29-09-2025,Grocery,1,10919.0,25,Net Banking,Shipped,3.0,2.0,8189.25
+ORD10544,CUST1194,Customer_194,Noida,29-09-2025,Electronics,1,11528.0,5,Credit Card,Shipped,2.0,5.0,10951.6
+ORD10545,CUST1195,Customer_195,Delhi,30-09-2025,Grocery,2,13519.0,20,Credit Card,Delivered,2.0,1.0,21630.4
+ORD10546,CUST1196,Customer_196,Chandigarh,30-09-2025,Grocery,3,7668.0,0,UPI,Delivered,2.0,8.0,23004.0
+ORD10547,CUST1197,Customer_197,Faridabad,01-10-2025,Sports,5,542.0,20,Cash on Delivery,Delivered,4.0,4.0,2168.0
+ORD10548,CUST1198,Customer_198,Ghaziabad,01-10-2025,Home & Kitchen,2,1647.0,15,Cash on Delivery,Delivered,1.0,7.0,2799.9
+ORD10549,CUST1199,Customer_199,,02-10-2025,Clothing,3,10771.0,20,Net Banking,Cancelled,5.0,3.0,25850.4
+ORD10550,CUST1200,Customer_200,Lucknow,02-10-2025,Electronics,2,6781.0,10,UPI,Returned,1.0,1.0,12205.8
+ORD10551,CUST1201,Customer_201,Delhi,03-10-2025,Sports,5,12051.0,10,,Cancelled,4.0,7.0,54229.5
+ORD10552,CUST1202,Customer_202,Ghaziabad,03-10-2025,Home & Kitchen,1,,20,UPI,Cancelled,2.0,6.0,5213.6
+ORD10553,CUST1203,Customer_203,Faridabad,04-10-2025,Clothing,1,726.0,10,UPI,Delivered,3.0,1.0,653.4
+ORD10554,CUST1204,Customer_204,Ghaziabad,04-10-2025,Clothing,3,10288.0,15,Net Banking,Cancelled,2.0,5.0,26234.4
+ORD10555,CUST1205,Customer_205,Delhi,05-10-2025,Sports,4,13146.0,5,UPI,Delivered,5.0,2.0,49954.8
+ORD10556,CUST1206,Customer_206,Chandigarh,05-10-2025,Beauty,3,10465.0,10,Credit Card,Delivered,3.0,4.0,28255.5
+ORD10557,CUST1207,Customer_207,Chandigarh,06-10-2025,Electronics,4,13307.0,10,Credit Card,Delivered,2.0,8.0,47905.2
+ORD10558,CUST1208,Customer_208,Jaipur,06-10-2025,Clothing,2,6948.0,20,Debit Card,Delivered,3.0,6.0,11116.8
+ORD10559,CUST1209,Customer_209,Chandigarh,07-10-2025,Sports,2,605.0,15,Net Banking,Cancelled,,6.0,1028.5
+ORD10560,CUST1210,Customer_210,Jaipur,07-10-2025,Sports,5,14767.0,5,Debit Card,Delivered,4.0,3.0,70143.25
+ORD10561,CUST1211,Customer_211,Ghaziabad,08-10-2025,Home & Kitchen,4,8186.0,20,Credit Card,Delivered,2.0,1.0,26195.2
+ORD10562,CUST1212,Customer_212,Gurgaon,08-10-2025,Beauty,5,9965.0,20,Debit Card,Delivered,5.0,3.0,39860.0
+ORD10563,CUST1213,Customer_213,Lucknow,09-10-2025,Electronics,1,14299.0,25,Net Banking,Delivered,1.0,2.0,10724.25
+ORD10564,CUST1214,Customer_214,Lucknow,09-10-2025,Grocery,4,12992.0,15,Net Banking,Shipped,2.0,7.0,44172.8
+ORD10565,CUST1215,Customer_215,Ghaziabad,10-10-2025,Home & Kitchen,3,3940.0,5,UPI,Cancelled,1.0,2.0,11229.0
+ORD10566,CUST1216,Customer_216,Noida,10-10-2025,Clothing,1,12666.0,15,Cash on Delivery,Delivered,5.0,7.0,10766.1
+ORD10567,CUST1217,Customer_217,Noida,11-10-2025,Clothing,1,12619.0,5,UPI,Returned,2.0,3.0,11988.05
+ORD10568,CUST1218,Customer_218,Chandigarh,11-10-2025,Home & Kitchen,3,2046.0,15,Net Banking,Shipped,5.0,4.0,5217.3
+ORD10569,CUST1219,Customer_219,Lucknow,12-10-2025,Sports,1,1678.0,20,Credit Card,Returned,3.0,2.0,1342.4
+ORD10570,CUST1220,Customer_220,Lucknow,12-10-2025,Clothing,4,10787.0,20,Credit Card,Cancelled,5.0,3.0,34518.4
+ORD10571,CUST1221,Customer_221,Jaipur,Not Available,Beauty,5,971.0,0,UPI,Cancelled,3.0,1.0,4855.0
+ORD10572,CUST1222,Customer_222,Gurgaon,13-10-2025,Electronics,1,5725.0,10,Net Banking,Delivered,2.0,3.0,5152.5
+ORD10573,CUST1223,Customer_223,Delhi,14-10-2025,Beauty,4,14611.0,25,Credit Card,Delivered,3.0,3.0,43833.0
+ORD10574,CUST1224,Customer_224,Noida,14-10-2025,Clothing,2,8970.0,15,Net Banking,Delivered,2.0,5.0,15249.0
+ORD10575,CUST1225,Customer_225,Lucknow,15-10-2025,Grocery,4,11293.0,25,Credit Card,Shipped,2.0,2.0,33879.0
+ORD10576,CUST1226,Customer_226,Jaipur,15-10-2025,Electronics,5,14003.0,0,Net Banking,Shipped,4.0,8.0,70015.0
+ORD10577,CUST1227,Customer_227,,16-10-2025,Electronics,4,393.0,10,Debit Card,Delivered,,4.0,1414.8
+ORD10578,CUST1228,Customer_228,Jaipur,16-10-2025,Home & Kitchen,3,2207.0,15,Net Banking,Cancelled,3.0,4.0,5627.85
+ORD10579,CUST1229,Customer_229,Noida,17-10-2025,Home & Kitchen,5,1385.0,5,Net Banking,Delivered,4.0,5.0,6578.75
+ORD10580,CUST1230,Customer_230,Noida,17-10-2025,Grocery,2,2594.0,10,UPI,Cancelled,4.0,7.0,4669.2
+ORD10581,CUST1231,Customer_231,Jaipur,18-10-2025,Sports,3,11390.0,20,Debit Card,Cancelled,2.0,6.0,27336.0
+ORD10582,CUST1232,Customer_232,Delhi,18-10-2025,Electronics,4,13872.0,0,Cash on Delivery,Delivered,5.0,7.0,55488.0
+ORD10583,CUST1233,Customer_233,Ghaziabad,19-10-2025,Grocery,5,10184.0,10,UPI,Delivered,,4.0,45828.0
+ORD10584,CUST1234,Customer_234,Noida,19-10-2025,Home & Kitchen,2,9502.0,10,Cash on Delivery,Shipped,4.0,3.0,17103.6
+ORD10585,CUST1235,Customer_235,Jaipur,20-10-2025,Home & Kitchen,3,4205.0,20,,Returned,2.0,5.0,10092.0
+ORD10586,CUST1236,Customer_236,Lucknow,2025/10/20,Electronics,2,7629.0,15,Cash on Delivery,Cancelled,5.0,1.0,12969.3
+ORD10587,CUST1237,Customer_237,Jaipur,21-10-2025,Beauty,4,2461.0,5,Net Banking,Cancelled,2.0,2.0,9351.8
+ORD10588,CUST1238,Customer_238,Gurgaon,Not Available,Clothing,2,3936.0,20,Cash on Delivery,Delivered,2.0,2.0,6297.6
+ORD10589,CUST1239,Customer_239,Ghaziabad,22-10-2025,Home & Kitchen,1,12185.0,5,UPI,Returned,4.0,8.0,11575.75
+ORD10590,CUST1240,Customer_240,Faridabad,22-10-2025,Sports,3,10328.0,15,UPI,Delivered,4.0,2.0,26336.4
+ORD10591,CUST1241,Customer_241,Delhi,23-10-2025,Sports,2,6916.0,10,Cash on Delivery,Delivered,1.0,3.0,12448.8
+ORD10592,CUST1242,Customer_242,Chandigarh,23-10-2025,Home & Kitchen,4,5075.0,5,UPI,Returned,5.0,1.0,19285.0
+ORD10593,CUST1243,Customer_243,Faridabad,24-10-2025,Beauty,4,12749.0,0,UPI,Delivered,5.0,5.0,50996.0
+ORD10594,CUST1244,Customer_244,Ghaziabad,24-10-2025,Beauty,2,9121.0,0,Cash on Delivery,Cancelled,5.0,5.0,18242.0
+ORD10595,CUST1245,Customer_245,Ghaziabad,25-10-2025,Grocery,4,,20,Debit Card,Shipped,3.0,2.0,14649.6
+ORD10596,CUST1246,Customer_246,Ghaziabad,25-10-2025,Sports,5,8015.0,15,Debit Card,Delivered,2.0,1.0,34063.75
+ORD10597,CUST1247,Customer_247,Faridabad,26-10-2025,Grocery,5,13978.0,20,Credit Card,Delivered,4.0,1.0,55912.0
+ORD10598,CUST1248,Customer_248,Lucknow,26-10-2025,Sports,5,3651.0,20,UPI,Delivered,5.0,1.0,14604.0
+ORD10599,CUST1249,Customer_249,Ghaziabad,27-10-2025,Clothing,1,12849.0,25,Cash on Delivery,Returned,,4.0,9636.75
+ORD10600,CUST1250,Customer_250,Jaipur,27-10-2025,Clothing,2,7816.0,20,UPI,Delivered,5.0,4.0,12505.6
+ORD10601,CUST1251,Customer_251,Faridabad,2025/13/45,Electronics,1,12928.0,25,Net Banking,Delivered,2.0,2.0,9696.0
+ORD10602,CUST1252,Customer_252,Chandigarh,28-10-2025,Grocery,4,10532.0,0,UPI,Delivered,2.0,1.0,42128.0
+ORD10603,CUST1253,Customer_253,Ghaziabad,29-10-2025,Home & Kitchen,1,,0,UPI,Shipped,4.0,6.0,10036.0
+ORD10604,CUST1254,Customer_254,Jaipur,29-10-2025,Grocery,4,3000.0,20,Debit Card,Delivered,3.0,1.0,9600.0
+ORD10605,CUST1255,Customer_255,Lucknow,30-10-2025,Home & Kitchen,4,13354.0,0,Cash on Delivery,Delivered,4.0,5.0,53416.0
+ORD10606,CUST1256,Customer_256,Gurgaon,30-10-2025,Beauty,3,13935.0,15,UPI,Shipped,5.0,5.0,35534.25
+ORD10607,CUST1257,Customer_257,Lucknow,31-10-2025,Grocery,5,8533.0,25,Debit Card,Delivered,1.0,2.0,31998.75
+ORD10608,CUST1258,Customer_258,Chandigarh,31-10-2025,Beauty,4,5610.0,25,Credit Card,Returned,4.0,6.0,16830.0
+ORD10609,CUST1259,Customer_259,Ghaziabad,01-11-2025,Clothing,3,1655.0,20,Debit Card,Returned,3.0,1.0,3972.0
+ORD10610,CUST1260,Customer_260,Chandigarh,Not Available,Clothing,5,7092.0,0,Debit Card,Delivered,4.0,7.0,35460.0
+ORD10611,CUST1261,Customer_261,Faridabad,Not Available,Electronics,4,14363.0,5,Debit Card,Shipped,2.0,6.0,54579.4
+ORD10612,CUST1262,Customer_262,Noida,02-11-2025,Grocery,4,14335.0,25,UPI,Delivered,5.0,8.0,43005.0
+ORD10613,CUST1263,Customer_263,Ghaziabad,03-11-2025,Beauty,1,6008.0,20,UPI,Delivered,5.0,2.0,4806.4
+ORD10614,CUST1264,Customer_264,Noida,03-11-2025,Home & Kitchen,1,6996.0,20,Credit Card,Returned,5.0,5.0,5596.8
+ORD10615,CUST1265,Customer_265,Jaipur,04-11-2025,Clothing,5,4996.0,15,Net Banking,Cancelled,,7.0,21233.0
+ORD10616,CUST1266,Customer_266,Gurgaon,04-11-2025,Clothing,4,5293.0,10,Net Banking,Delivered,5.0,5.0,19054.8
+ORD10617,CUST1267,Customer_267,Delhi,05-11-2025,Home & Kitchen,2,10488.0,10,Net Banking,Delivered,5.0,,18878.4
+ORD10618,CUST1268,Customer_268,Chandigarh,05-11-2025,Beauty,1,1525.0,25,Credit Card,Delivered,1.0,2.0,1143.75
+ORD10619,CUST1269,Customer_269,Lucknow,06-11-2025,Beauty,5,5176.0,15,Net Banking,Returned,3.0,2.0,21998.0
+ORD10620,CUST1270,Customer_270,Gurgaon,06-11-2025,Grocery,4,9605.0,15,Net Banking,Cancelled,5.0,1.0,32657.0
+ORD10621,CUST1271,Customer_271,Ghaziabad,07-11-2025,Grocery,4,1359.0,15,Debit Card,Delivered,3.0,1.0,4620.6
+ORD10622,CUST1272,Customer_272,Noida,07-11-2025,Sports,2,4850.0,25,UPI,Returned,5.0,4.0,7275.0
+ORD10623,CUST1273,Customer_273,Lucknow,08-11-2025,Sports,5,12891.0,10,UPI,Shipped,4.0,7.0,58009.5
+ORD10624,CUST1274,Customer_274,Noida,08-11-2025,Electronics,4,5187.0,15,Debit Card,Delivered,5.0,8.0,17635.8
+ORD10625,CUST1275,Customer_275,Faridabad,09-11-2025,Clothing,1,4897.0,0,Debit Card,Delivered,2.0,3.0,4897.0
+ORD10626,CUST1276,Customer_276,Noida,09-11-2025,Grocery,2,14318.0,20,Debit Card,Shipped,1.0,6.0,22908.8
+ORD10627,CUST1277,Customer_277,Faridabad,10-11-2025,Beauty,5,540.0,20,UPI,Delivered,4.0,3.0,2160.0
+ORD10628,CUST1278,Customer_278,Jaipur,10-11-2025,Home & Kitchen,2,4028.0,5,Net Banking,Shipped,4.0,3.0,7653.2
+ORD10629,CUST1279,Customer_279,Lucknow,11-11-2025,Beauty,1,2168.0,5,Debit Card,Delivered,2.0,2.0,2059.6
+ORD10630,CUST1280,Customer_280,Lucknow,11-11-2025,Clothing,5,903.0,25,Credit Card,Delivered,5.0,,3386.25
+ORD10631,CUST1281,Customer_281,Delhi,12-11-2025,Sports,2,12805.0,25,Debit Card,Delivered,1.0,2.0,19207.5
+ORD10632,CUST1282,Customer_282,Ghaziabad,12-11-2025,Beauty,3,5682.0,20,Cash on Delivery,Shipped,4.0,8.0,13636.8
+ORD10633,CUST1283,Customer_283,Faridabad,13-11-2025,Electronics,1,10821.0,0,Debit Card,Shipped,1.0,6.0,10821.0
+ORD10634,CUST1284,Customer_284,Delhi,13-11-2025,Clothing,1,6576.0,10,UPI,Delivered,4.0,5.0,5918.4
+ORD10635,CUST1285,Customer_285,Noida,14-11-2025,Sports,1,2000.0,10,Debit Card,Shipped,5.0,2.0,1800.0
+ORD10636,CUST1286,Customer_286,Noida,14-11-2025,Home & Kitchen,3,5663.0,25,Cash on Delivery,Returned,4.0,2.0,12741.75
+ORD10637,CUST1287,Customer_287,Delhi,2025/11/15,Sports,3,14060.0,0,Credit Card,Delivered,4.0,2.0,42180.0
+ORD10638,CUST1288,Customer_288,Lucknow,15-11-2025,Electronics,4,5112.0,25,Net Banking,Delivered,3.0,7.0,15336.0
+ORD10639,CUST1289,Customer_289,Noida,16-11-2025,Clothing,2,4848.0,10,Debit Card,Delivered,5.0,4.0,8726.4
+ORD10640,CUST1290,Customer_290,Chandigarh,16-11-2025,Home & Kitchen,4,1055.0,25,Cash on Delivery,Delivered,2.0,2.0,3165.0
+ORD10641,CUST1291,Customer_291,Jaipur,17-11-2025,Electronics,2,10204.0,15,Cash on Delivery,Returned,2.0,8.0,17346.8
+ORD10642,CUST1292,Customer_292,Jaipur,17-11-2025,Sports,3,3066.0,25,Credit Card,Returned,5.0,1.0,6898.5
+ORD10643,CUST1293,Customer_293,Chandigarh,18-11-2025,Electronics,3,12034.0,20,UPI,Cancelled,2.0,1.0,28881.6
+ORD10644,CUST1294,Customer_294,Delhi,18-11-2025,Clothing,4,382.0,25,Debit Card,Cancelled,5.0,6.0,1146.0
+ORD10645,CUST1295,Customer_295,Chandigarh,19-11-2025,Grocery,5,3312.0,20,Cash on Delivery,Cancelled,2.0,5.0,13248.0
+ORD10646,CUST1296,Customer_296,Faridabad,19-11-2025,Electronics,4,5870.0,0,Credit Card,Delivered,3.0,4.0,23480.0
+ORD10647,CUST1297,Customer_297,Faridabad,20-11-2025,Electronics,2,4692.0,10,Net Banking,Shipped,2.0,7.0,8445.6
+ORD10648,CUST1298,Customer_298,Delhi,20-11-2025,Sports,4,6023.0,5,Cash on Delivery,Returned,4.0,6.0,22887.4
+ORD10649,CUST1299,Customer_299,Chandigarh,21-11-2025,Sports,1,1717.0,5,Credit Card,Delivered,5.0,1.0,1631.15
+ORD10650,CUST1300,Customer_300,Faridabad,21-11-2025,Home & Kitchen,2,5202.0,10,UPI,Delivered,1.0,4.0,9363.6
+ORD10651,CUST1301,Customer_301,Lucknow,22-11-2025,Sports,2,1556.0,5,,Delivered,1.0,4.0,2956.4
+ORD10652,CUST1302,Customer_302,Chandigarh,22-11-2025,Beauty,5,10566.0,25,Cash on Delivery,Delivered,5.0,5.0,39622.5
+ORD10653,CUST1303,Customer_303,Lucknow,23-11-2025,Clothing,3,3829.0,0,Cash on Delivery,Cancelled,3.0,8.0,11487.0
+ORD10654,CUST1304,Customer_304,Faridabad,23-11-2025,Clothing,2,3828.0,0,Debit Card,Delivered,2.0,4.0,7656.0
+ORD10655,CUST1305,Customer_305,Jaipur,24-11-2025,Grocery,3,,10,Credit Card,Shipped,3.0,2.0,33717.6
+ORD10656,CUST1306,Customer_306,Faridabad,24-11-2025,Grocery,4,11631.0,5,Cash on Delivery,Cancelled,1.0,4.0,44197.8
+ORD10657,CUST1307,Customer_307,Lucknow,25-11-2025,Clothing,1,12083.0,25,Debit Card,Delivered,5.0,5.0,9062.25
+ORD10658,CUST1308,Customer_308,Gurgaon,25-11-2025,Grocery,5,8410.0,0,Debit Card,Delivered,5.0,6.0,42050.0
+ORD10659,CUST1309,Customer_309,Ghaziabad,26-11-2025,Home & Kitchen,3,11795.0,0,Cash on Delivery,Delivered,3.0,5.0,35385.0
+ORD10660,CUST1310,Customer_310,Noida,26-11-2025,Sports,2,13071.0,15,UPI,Delivered,3.0,7.0,22220.7
+ORD10661,CUST1311,Customer_311,Chandigarh,27-11-2025,Clothing,3,12943.0,15,Credit Card,Delivered,2.0,5.0,33004.65
+ORD10662,CUST1312,Customer_312,Gurgaon,27-11-2025,Grocery,2,11396.0,0,Credit Card,Cancelled,4.0,,22792.0
+ORD10663,CUST1313,Customer_313,Faridabad,28-11-2025,Clothing,3,6332.0,10,UPI,Delivered,4.0,2.0,17096.4
+ORD10664,CUST1314,Customer_314,Jaipur,28-11-2025,Beauty,2,9524.0,20,Cash on Delivery,Returned,2.0,8.0,15238.4
+ORD10665,CUST1315,Customer_315,Delhi,29-11-2025,Electronics,4,11731.0,20,Credit Card,Returned,4.0,1.0,37539.2
+ORD10666,CUST1316,Customer_316,Faridabad,29-11-2025,Sports,2,6788.0,25,Cash on Delivery,Returned,1.0,6.0,10182.0
+ORD10667,CUST1317,Customer_317,Jaipur,30-11-2025,Clothing,2,3511.0,0,Cash on Delivery,Cancelled,4.0,3.0,7022.0
+ORD10668,CUST1318,Customer_318,Ghaziabad,30-11-2025,Electronics,1,6248.0,0,Debit Card,Shipped,2.0,6.0,6248.0
+ORD10669,CUST1319,Customer_319,Faridabad,01-12-2025,Grocery,2,11764.0,0,UPI,Delivered,4.0,2.0,23528.0
+ORD10670,CUST1320,Customer_320,Lucknow,01-12-2025,Electronics,1,6446.0,10,Cash on Delivery,Delivered,5.0,4.0,5801.4
+ORD10671,CUST1321,Customer_321,Delhi,02-12-2025,Sports,5,1187.0,15,Net Banking,Delivered,3.0,5.0,5044.75
+ORD10672,CUST1322,Customer_322,Jaipur,02-12-2025,Clothing,1,3521.0,0,UPI,Delivered,1.0,3.0,3521.0
+ORD10673,CUST1323,Customer_323,Jaipur,03-12-2025,Beauty,4,4815.0,0,Credit Card,Returned,5.0,2.0,19260.0
+ORD10674,CUST1324,Customer_324,Jaipur,03-12-2025,Grocery,1,13346.0,5,Debit Card,Returned,5.0,1.0,12678.7
+ORD10675,CUST1325,Customer_325,Ghaziabad,04-12-2025,Clothing,5,8565.0,10,Credit Card,Delivered,2.0,5.0,38542.5
+ORD10676,CUST1326,Customer_326,Faridabad,04-12-2025,Sports,4,13854.0,25,Credit Card,Delivered,3.0,6.0,41562.0
+ORD10677,CUST1327,Customer_327,Ghaziabad,05-12-2025,Grocery,3,3941.0,0,UPI,Shipped,3.0,1.0,11823.0
+ORD10678,CUST1328,Customer_328,Chandigarh,05-12-2025,Home & Kitchen,3,3252.0,5,Credit Card,Shipped,1.0,2.0,9268.2
+ORD10679,CUST1329,Customer_329,,06-12-2025,Electronics,1,6774.0,20,Cash on Delivery,Shipped,2.0,2.0,5419.2
+ORD10680,CUST1330,Customer_330,Noida,06-12-2025,Sports,1,926.0,25,Credit Card,Shipped,1.0,6.0,694.5
+ORD10681,CUST1331,Customer_331,Chandigarh,07-12-2025,Home & Kitchen,5,3960.0,0,Debit Card,Delivered,4.0,3.0,19800.0
+ORD10682,CUST1332,Customer_332,Faridabad,07-12-2025,Clothing,5,6006.0,0,Debit Card,Delivered,,6.0,30030.0
+ORD10683,CUST1333,Customer_333,Lucknow,08-12-2025,Beauty,2,2075.0,5,Net Banking,Delivered,1.0,4.0,3942.5
+ORD10684,CUST1334,Customer_334,Ghaziabad,08-12-2025,Grocery,5,7193.0,10,Debit Card,Shipped,,1.0,32368.5
+ORD10685,CUST1335,Customer_335,Delhi,09-12-2025,Electronics,2,14169.0,0,Credit Card,Delivered,2.0,3.0,28338.0
+ORD10686,CUST1336,Customer_336,Jaipur,09-12-2025,Grocery,4,4233.0,20,Debit Card,Shipped,4.0,5.0,13545.6
+ORD10687,CUST1337,Customer_337,Jaipur,10-12-2025,Clothing,1,5643.0,0,UPI,Cancelled,2.0,7.0,5643.0
+ORD10688,CUST1338,Customer_338,Faridabad,10-12-2025,Grocery,4,1189.0,20,Debit Card,Returned,4.0,4.0,3804.8
+ORD10689,CUST1339,Customer_339,Lucknow,11-12-2025,Electronics,5,3944.0,25,Cash on Delivery,Delivered,,3.0,14790.0
+ORD10690,CUST1340,Customer_340,Noida,11-12-2025,Clothing,4,11078.0,25,UPI,Cancelled,5.0,7.0,33234.0
+ORD10691,CUST1341,Customer_341,Noida,12-12-2025,Grocery,4,8811.0,15,Net Banking,Delivered,2.0,7.0,29957.4
+ORD10692,CUST1342,Customer_342,Jaipur,12-12-2025,Beauty,4,793.0,15,Cash on Delivery,Delivered,2.0,1.0,2696.2
+ORD10693,CUST1343,Customer_343,Faridabad,13-12-2025,Sports,5,1974.0,20,Credit Card,Delivered,1.0,2.0,7896.0
+ORD10694,CUST1344,Customer_344,Ghaziabad,13-12-2025,Clothing,4,10851.0,10,Credit Card,Delivered,2.0,5.0,39063.6
+ORD10695,CUST1345,Customer_345,Noida,14-12-2025,Sports,2,1135.0,0,Credit Card,Returned,1.0,6.0,2270.0
+ORD10696,CUST1346,Customer_346,Ghaziabad,14-12-2025,Clothing,5,13595.0,0,Cash on Delivery,Cancelled,3.0,1.0,67975.0
+ORD10697,CUST1347,Customer_347,Lucknow,15-12-2025,Beauty,4,13624.0,15,Cash on Delivery,Returned,3.0,4.0,46321.6
+ORD10698,CUST1348,Customer_348,Noida,15-12-2025,Sports,5,4008.0,20,Cash on Delivery,Shipped,3.0,8.0,16032.0
+ORD10699,CUST1349,Customer_349,Noida,16-12-2025,Home & Kitchen,3,531.0,0,UPI,Returned,2.0,7.0,1593.0
+ORD10700,CUST1350,Customer_350,Gurgaon,16-12-2025,Electronics,2,11841.0,0,UPI,Returned,2.0,4.0,23682.0
+ORD10701,CUST1001,Customer_1,Noida,17-12-2025,Home & Kitchen,4,8122.0,10,Credit Card,Shipped,1.0,7.0,29239.2
+ORD10702,CUST1002,Customer_2,,17-12-2025,Grocery,3,2902.0,5,Debit Card,Delivered,4.0,2.0,8270.7
+ORD10703,CUST1003,Customer_3,Delhi,18-12-2025,Beauty,3,14576.0,15,Credit Card,Shipped,1.0,8.0,37168.8
+ORD10704,CUST1004,Customer_4,Chandigarh,2025/12/18,Home & Kitchen,5,12398.0,15,Net Banking,Cancelled,3.0,2.0,52691.5
+ORD10705,CUST1005,Customer_5,Faridabad,19-12-2025,Clothing,3,6089.0,5,UPI,Returned,1.0,5.0,17353.65
+ORD10706,CUST1006,Customer_6,Faridabad,19-12-2025,Grocery,2,5254.0,0,Cash on Delivery,Shipped,4.0,6.0,10508.0
+ORD10707,CUST1007,Customer_7,Ghaziabad,20-12-2025,Grocery,2,4068.0,10,UPI,Returned,2.0,5.0,7322.4
+ORD10708,CUST1008,Customer_8,Chandigarh,20-12-2025,Home & Kitchen,1,4400.0,10,Cash on Delivery,Cancelled,1.0,2.0,3960.0
+ORD10709,CUST1009,Customer_9,,21-12-2025,Home & Kitchen,2,401.0,15,Net Banking,Delivered,3.0,2.0,681.7
+ORD10710,CUST1010,Customer_10,Chandigarh,21-12-2025,Beauty,3,2697.0,10,Net Banking,Cancelled,3.0,4.0,7281.9
+ORD10711,CUST1011,Customer_11,Lucknow,22-12-2025,Electronics,2,2042.0,25,UPI,Delivered,2.0,2.0,3063.0
+ORD10712,CUST1012,Customer_12,Noida,22-12-2025,Home & Kitchen,5,10258.0,5,Cash on Delivery,Delivered,1.0,8.0,48725.5
+ORD10713,CUST1013,Customer_13,Delhi,23-12-2025,Home & Kitchen,1,10388.0,0,Net Banking,Delivered,4.0,8.0,10388.0
+ORD10714,CUST1014,Customer_14,Ghaziabad,23-12-2025,Sports,3,13777.0,25,Credit Card,Returned,2.0,3.0,30998.25
+ORD10715,CUST1015,Customer_15,Chandigarh,24-12-2025,Clothing,1,9301.0,5,Credit Card,Delivered,1.0,7.0,8835.95
+ORD10716,CUST1016,Customer_16,Chandigarh,24-12-2025,Sports,3,12697.0,20,Cash on Delivery,Delivered,5.0,1.0,30472.8
+ORD10717,CUST1017,Customer_17,Gurgaon,25-12-2025,Sports,5,4858.0,15,UPI,Delivered,3.0,2.0,20646.5
+ORD10718,CUST1018,Customer_18,Ghaziabad,25-12-2025,Grocery,1,11581.0,10,Net Banking,Returned,4.0,,10422.9
+ORD10719,CUST1019,Customer_19,Chandigarh,26-12-2025,Electronics,4,7744.0,20,UPI,Cancelled,4.0,6.0,24780.8
+ORD10720,CUST1020,Customer_20,Ghaziabad,26-12-2025,Clothing,3,7918.0,10,Credit Card,Delivered,,7.0,21378.6
+ORD10721,CUST1021,Customer_21,Noida,27-12-2025,Beauty,4,14051.0,25,Net Banking,Delivered,3.0,7.0,42153.0
+ORD10722,CUST1022,Customer_22,Gurgaon,27-12-2025,Beauty,1,970.0,0,UPI,Delivered,1.0,6.0,970.0
+ORD10723,CUST1023,Customer_23,Ghaziabad,28-12-2025,Home & Kitchen,4,3355.0,0,Debit Card,Cancelled,2.0,6.0,13420.0
+ORD10724,CUST1024,Customer_24,Delhi,28-12-2025,Home & Kitchen,4,10893.0,0,Cash on Delivery,Delivered,1.0,7.0,43572.0
+ORD10725,CUST1025,Customer_25,Delhi,29-12-2025,Beauty,1,11106.0,10,Cash on Delivery,Delivered,2.0,3.0,9995.4
+ORD10726,CUST1026,Customer_26,Faridabad,29-12-2025,Home & Kitchen,5,13116.0,20,Debit Card,Cancelled,4.0,5.0,52464.0
+ORD10727,CUST1027,Customer_27,Gurgaon,30-12-2025,Electronics,4,11977.0,0,Credit Card,Shipped,1.0,3.0,47908.0
+ORD10728,CUST1028,Customer_28,Gurgaon,30-12-2025,Sports,4,1828.0,20,Net Banking,Delivered,4.0,2.0,5849.6
+ORD10729,CUST1029,Customer_29,Faridabad,31-12-2025,Home & Kitchen,5,14189.0,10,Cash on Delivery,Delivered,5.0,1.0,63850.5
+ORD10730,CUST1030,Customer_30,Ghaziabad,31-12-2025,Grocery,4,586.0,25,Debit Card,Delivered,4.0,6.0,1758.0
+ORD10731,CUST1031,Customer_31,Gurgaon,01-01-2026,Home & Kitchen,4,6231.0,20,Debit Card,Delivered,4.0,8.0,19939.2
+ORD10732,CUST1032,Customer_32,Delhi,01-01-2026,Clothing,4,11813.0,25,,Delivered,2.0,5.0,35439.0
+ORD10733,CUST1033,Customer_33,Delhi,02-01-2026,Electronics,2,6639.0,10,Credit Card,Shipped,5.0,6.0,11950.2
+ORD10734,CUST1034,Customer_34,Chandigarh,02-01-2026,Clothing,5,6601.0,10,UPI,Delivered,4.0,3.0,29704.5
+ORD10735,CUST1035,Customer_35,Noida,03-01-2026,Clothing,4,13592.0,15,Cash on Delivery,Returned,4.0,4.0,46212.8
+ORD10736,CUST1036,Customer_36,Gurgaon,03-01-2026,Grocery,5,4208.0,10,UPI,Delivered,5.0,2.0,18936.0
+ORD10737,CUST1037,Customer_37,Ghaziabad,04-01-2026,Electronics,3,12485.0,10,Debit Card,Delivered,5.0,1.0,33709.5
+ORD10738,CUST1038,Customer_38,Faridabad,04-01-2026,Electronics,3,12755.0,5,Net Banking,Cancelled,1.0,2.0,36351.75
+ORD10739,CUST1039,Customer_39,Faridabad,05-01-2026,Electronics,4,2666.0,0,Net Banking,Cancelled,2.0,4.0,10664.0
+ORD10740,CUST1040,Customer_40,Ghaziabad,05-01-2026,Electronics,5,2482.0,15,Credit Card,Delivered,5.0,1.0,10548.5
+ORD10741,CUST1041,Customer_41,Lucknow,06-01-2026,Electronics,5,2056.0,15,Net Banking,Cancelled,5.0,4.0,8738.0
+ORD10742,CUST1042,Customer_42,Jaipur,06-01-2026,Grocery,5,8180.0,15,Net Banking,Delivered,3.0,2.0,34765.0
+ORD10743,CUST1043,Customer_43,Noida,07-01-2026,Home & Kitchen,2,2198.0,5,Net Banking,Cancelled,5.0,3.0,4176.2
+ORD10744,CUST1044,Customer_44,Faridabad,07-01-2026,Clothing,3,5676.0,25,Debit Card,Cancelled,2.0,7.0,12771.0
+ORD10745,CUST1045,Customer_45,Gurgaon,08-01-2026,Electronics,5,9628.0,10,Net Banking,Delivered,,2.0,43326.0
+ORD10746,CUST1046,Customer_46,Noida,08-01-2026,Home & Kitchen,5,4869.0,0,Net Banking,Shipped,4.0,2.0,24345.0
+ORD10747,CUST1047,Customer_47,Gurgaon,2026/01/09,Home & Kitchen,2,12536.0,20,Net Banking,Cancelled,4.0,2.0,20057.6
+ORD10748,CUST1048,Customer_48,Lucknow,09-01-2026,Clothing,2,9542.0,25,UPI,Returned,4.0,5.0,14313.0
+ORD10749,CUST1049,Customer_49,Delhi,10-01-2026,Grocery,5,4518.0,10,Debit Card,Cancelled,3.0,4.0,20331.0
+ORD10750,CUST1050,Customer_50,Noida,10-01-2026,Beauty,1,7264.0,5,Credit Card,Shipped,5.0,8.0,6900.8
+ORD10751,CUST1051,Customer_51,Chandigarh,11-01-2026,Beauty,5,7646.0,10,UPI,Delivered,4.0,4.0,34407.0
+ORD10752,CUST1052,Customer_52,Faridabad,11-01-2026,Home & Kitchen,5,1631.0,10,Cash on Delivery,Shipped,1.0,6.0,7339.5
+ORD10753,CUST1053,Customer_53,Noida,12-01-2026,Sports,2,5824.0,5,Debit Card,Delivered,4.0,4.0,11065.6
+ORD10754,CUST1054,Customer_54,,2026/01/12,Sports,2,7661.0,15,Debit Card,Delivered,5.0,6.0,13023.7
+ORD10755,CUST1055,Customer_55,Noida,13-01-2026,Clothing,5,2019.0,15,Cash on Delivery,Delivered,4.0,5.0,8580.75
+ORD10756,CUST1056,Customer_56,Jaipur,13-01-2026,Beauty,5,10716.0,0,Cash on Delivery,Delivered,3.0,3.0,53580.0
+ORD10757,CUST1057,Customer_57,Noida,14-01-2026,Home & Kitchen,5,13949.0,0,,Delivered,2.0,6.0,69745.0
+ORD10758,CUST1058,Customer_58,Gurgaon,14-01-2026,Grocery,2,1330.0,15,Credit Card,Delivered,2.0,2.0,2261.0
+ORD10759,CUST1059,Customer_59,,15-01-2026,Beauty,5,14169.0,25,Net Banking,Returned,5.0,3.0,53133.75
+ORD10760,CUST1060,Customer_60,Lucknow,15-01-2026,Home & Kitchen,5,6763.0,20,Debit Card,Delivered,2.0,7.0,27052.0
+ORD10761,CUST1061,Customer_61,Ghaziabad,16-01-2026,Home & Kitchen,4,2858.0,10,Net Banking,Delivered,2.0,5.0,10288.8
+ORD10762,CUST1062,Customer_62,Noida,16-01-2026,Electronics,1,3700.0,20,Net Banking,Cancelled,1.0,4.0,2960.0
+ORD10763,CUST1063,Customer_63,Faridabad,17-01-2026,Grocery,3,8766.0,10,,Returned,5.0,6.0,23668.2
+ORD10764,CUST1064,Customer_64,Noida,17-01-2026,Electronics,1,2320.0,15,Credit Card,Returned,5.0,8.0,1972.0
+ORD10765,CUST1065,Customer_65,Faridabad,18-01-2026,Clothing,4,4220.0,0,UPI,Cancelled,2.0,2.0,16880.0
+ORD10766,CUST1066,Customer_66,Gurgaon,18-01-2026,Electronics,3,10413.0,25,Credit Card,Delivered,2.0,1.0,23429.25
+ORD10767,CUST1067,Customer_67,Faridabad,19-01-2026,Electronics,5,12097.0,0,Net Banking,Returned,2.0,7.0,60485.0
+ORD10768,CUST1068,Customer_68,Chandigarh,19-01-2026,Beauty,4,13541.0,20,Credit Card,Delivered,3.0,1.0,43331.2
+ORD10769,CUST1069,Customer_69,Ghaziabad,20-01-2026,Sports,5,3459.0,0,Cash on Delivery,Delivered,4.0,3.0,17295.0
+ORD10770,CUST1070,Customer_70,Delhi,20-01-2026,Home & Kitchen,2,11827.0,15,UPI,Cancelled,3.0,4.0,20105.9
+ORD10771,CUST1071,Customer_71,Faridabad,21-01-2026,Grocery,4,10281.0,25,Cash on Delivery,Delivered,5.0,8.0,30843.0
+ORD10772,CUST1072,Customer_72,Faridabad,21-01-2026,Electronics,2,2023.0,20,UPI,Delivered,1.0,1.0,3236.8
+ORD10773,CUST1073,Customer_73,Delhi,22-01-2026,Grocery,4,1674.0,25,Net Banking,Delivered,4.0,3.0,5022.0
+ORD10774,CUST1074,Customer_74,,22-01-2026,Sports,4,2442.0,10,UPI,Delivered,1.0,5.0,8791.2
+ORD10775,CUST1075,Customer_75,Noida,23-01-2026,Sports,2,13667.0,0,UPI,Delivered,5.0,3.0,27334.0
+ORD10776,CUST1076,Customer_76,Faridabad,23-01-2026,Electronics,3,3443.0,25,UPI,Shipped,5.0,7.0,7746.75
+ORD10777,CUST1077,Customer_77,Delhi,24-01-2026,Clothing,1,7190.0,5,Credit Card,Cancelled,1.0,8.0,6830.5
+ORD10778,CUST1078,Customer_78,Chandigarh,24-01-2026,Electronics,5,5360.0,0,Credit Card,Cancelled,1.0,8.0,26800.0
+ORD10779,CUST1079,Customer_79,Chandigarh,25-01-2026,Beauty,4,3334.0,10,Net Banking,Delivered,1.0,3.0,12002.4
+ORD10780,CUST1080,Customer_80,Gurgaon,25-01-2026,Home & Kitchen,5,2270.0,25,UPI,Returned,5.0,7.0,8512.5
+ORD10781,CUST1081,Customer_81,Delhi,26-01-2026,Clothing,2,559.0,20,Debit Card,Delivered,2.0,3.0,894.4
+ORD10782,CUST1082,Customer_82,Gurgaon,26-01-2026,Electronics,5,10433.0,10,Net Banking,Shipped,1.0,8.0,46948.5
+ORD10783,CUST1083,Customer_83,Chandigarh,27-01-2026,Grocery,2,1341.0,5,UPI,Delivered,4.0,8.0,2547.9
+ORD10784,CUST1084,Customer_84,Ghaziabad,27-01-2026,Clothing,5,1835.0,25,,Cancelled,5.0,2.0,6881.25
+ORD10785,CUST1085,Customer_85,Noida,28-01-2026,Clothing,1,13891.0,15,Credit Card,Delivered,,3.0,11807.35
+ORD10786,CUST1086,Customer_86,Delhi,28-01-2026,Electronics,1,4200.0,0,Net Banking,Shipped,3.0,6.0,4200.0
+ORD10787,CUST1087,Customer_87,Lucknow,29-01-2026,Clothing,1,10335.0,20,UPI,Returned,4.0,3.0,8268.0
+ORD10788,CUST1088,Customer_88,Chandigarh,29-01-2026,Grocery,1,13166.0,15,UPI,Delivered,2.0,8.0,11191.1
+ORD10789,CUST1089,Customer_89,Chandigarh,30-01-2026,Sports,1,3561.0,25,Net Banking,Delivered,1.0,,2670.75
+ORD10790,CUST1090,Customer_90,Lucknow,30-01-2026,Clothing,1,6783.0,25,Debit Card,Delivered,5.0,2.0,5087.25
+ORD10791,CUST1091,Customer_91,Jaipur,31-01-2026,Sports,2,8035.0,10,Net Banking,Delivered,1.0,5.0,14463.0
+ORD10792,CUST1092,Customer_92,Chandigarh,31-01-2026,Grocery,4,11372.0,25,Net Banking,Cancelled,5.0,7.0,34116.0
+ORD10793,CUST1093,Customer_93,Faridabad,01-02-2026,Electronics,5,206.0,20,Debit Card,Delivered,3.0,,824.0
+ORD10794,CUST1094,Customer_94,Ghaziabad,01-02-2026,Home & Kitchen,1,3467.0,15,Net Banking,Delivered,1.0,1.0,2946.95
+ORD10795,CUST1095,Customer_95,Delhi,02-02-2026,Clothing,2,6764.0,20,UPI,Delivered,4.0,1.0,10822.4
+ORD10796,CUST1096,Customer_96,Lucknow,02-02-2026,Home & Kitchen,2,9983.0,5,Net Banking,Returned,2.0,3.0,18967.7
+ORD10797,CUST1097,Customer_97,Faridabad,03-02-2026,Grocery,2,5128.0,5,Debit Card,Delivered,4.0,5.0,9743.2
+ORD10798,CUST1098,Customer_98,Lucknow,03-02-2026,Clothing,4,11656.0,0,Cash on Delivery,Delivered,2.0,3.0,46624.0
+ORD10799,CUST1099,Customer_99,Delhi,04-02-2026,Sports,5,2806.0,0,Net Banking,Delivered,1.0,1.0,14030.0
+ORD10800,CUST1100,Customer_100,Gurgaon,04-02-2026,Beauty,4,11611.0,5,Credit Card,Delivered,1.0,7.0,44121.8
+ORD10801,CUST1101,Customer_101,Delhi,05-02-2026,Home & Kitchen,3,6106.0,25,UPI,Delivered,2.0,8.0,13738.5
+ORD10802,CUST1102,Customer_102,Jaipur,05-02-2026,Clothing,2,3473.0,20,UPI,Delivered,3.0,7.0,5556.8
+ORD10803,CUST1103,Customer_103,Delhi,06-02-2026,Home & Kitchen,3,7811.0,5,Credit Card,Delivered,5.0,7.0,22261.35
+ORD10804,CUST1104,Customer_104,Delhi,06-02-2026,Clothing,1,1113.0,0,Credit Card,Shipped,4.0,2.0,1113.0
+ORD10805,CUST1105,Customer_105,Jaipur,07-02-2026,Electronics,1,2211.0,5,Net Banking,Delivered,4.0,8.0,2100.45
+ORD10806,CUST1106,Customer_106,Ghaziabad,07-02-2026,Sports,4,1642.0,25,Credit Card,Delivered,4.0,4.0,4926.0
+ORD10807,CUST1107,Customer_107,Chandigarh,08-02-2026,Home & Kitchen,5,5746.0,5,Cash on Delivery,Delivered,1.0,8.0,27293.5
+ORD10808,CUST1108,Customer_108,Delhi,08-02-2026,Beauty,3,11446.0,20,Debit Card,Cancelled,4.0,5.0,27470.4
+ORD10809,CUST1109,Customer_109,Jaipur,09-02-2026,Beauty,5,13990.0,15,Credit Card,Cancelled,5.0,2.0,59457.5
+ORD10810,CUST1110,Customer_110,Faridabad,09-02-2026,Grocery,4,11938.0,25,Credit Card,Returned,5.0,4.0,35814.0
+ORD10811,CUST1111,Customer_111,Gurgaon,10-02-2026,Clothing,1,12613.0,0,Cash on Delivery,Cancelled,2.0,5.0,12613.0
+ORD10812,CUST1112,Customer_112,Gurgaon,10-02-2026,Home & Kitchen,5,14930.0,20,UPI,Delivered,1.0,5.0,59720.0
+ORD10813,CUST1113,Customer_113,Delhi,11-02-2026,Grocery,5,13304.0,5,UPI,Returned,5.0,1.0,63194.0
+ORD10814,CUST1114,Customer_114,Ghaziabad,11-02-2026,Home & Kitchen,1,11320.0,5,Net Banking,Delivered,3.0,2.0,10754.0
+ORD10815,CUST1115,Customer_115,Ghaziabad,12-02-2026,Clothing,3,2029.0,15,Cash on Delivery,Delivered,1.0,5.0,5173.95
+ORD10816,CUST1116,Customer_116,Faridabad,12-02-2026,Beauty,1,8967.0,0,Debit Card,Delivered,1.0,6.0,8967.0
+ORD10817,CUST1117,Customer_117,Delhi,13-02-2026,Electronics,5,6668.0,0,Debit Card,Delivered,5.0,7.0,33340.0
+ORD10818,CUST1118,Customer_118,Gurgaon,13-02-2026,Beauty,3,13903.0,10,Cash on Delivery,Returned,3.0,5.0,37538.1
+ORD10819,CUST1119,Customer_119,Ghaziabad,14-02-2026,Grocery,3,1129.0,0,Debit Card,Delivered,2.0,4.0,3387.0
+ORD10820,CUST1120,Customer_120,Delhi,14-02-2026,Sports,1,12151.0,15,UPI,Shipped,5.0,1.0,10328.35
+ORD10821,CUST1121,Customer_121,Lucknow,15-02-2026,Electronics,5,3899.0,10,Debit Card,Delivered,3.0,3.0,17545.5
+ORD10822,CUST1122,Customer_122,Ghaziabad,15-02-2026,Grocery,4,9855.0,10,Debit Card,Shipped,1.0,7.0,35478.0
+ORD10823,CUST1123,Customer_123,Jaipur,16-02-2026,Clothing,5,11667.0,5,Cash on Delivery,Shipped,3.0,1.0,55418.25
+ORD10824,CUST1124,Customer_124,Lucknow,16-02-2026,Electronics,2,13320.0,5,Cash on Delivery,Cancelled,1.0,,25308.0
+ORD10825,CUST1125,Customer_125,Chandigarh,17-02-2026,Grocery,4,1254.0,0,Debit Card,Delivered,5.0,2.0,5016.0
+ORD10826,CUST1126,Customer_126,Ghaziabad,17-02-2026,Clothing,3,5944.0,10,Credit Card,Shipped,5.0,2.0,16048.8
+ORD10827,CUST1127,Customer_127,Gurgaon,18-02-2026,Beauty,4,2100.0,5,Cash on Delivery,Delivered,4.0,5.0,7980.0
+ORD10828,CUST1128,Customer_128,Noida,18-02-2026,Sports,3,9849.0,15,Net Banking,Cancelled,4.0,6.0,25114.95
+ORD10829,CUST1129,Customer_129,Lucknow,19-02-2026,Clothing,3,7180.0,5,Net Banking,Delivered,4.0,2.0,20463.0
+ORD10830,CUST1130,Customer_130,Chandigarh,19-02-2026,Home & Kitchen,4,7269.0,25,UPI,Delivered,5.0,8.0,21807.0
+ORD10831,CUST1131,Customer_131,Faridabad,20-02-2026,Clothing,3,9791.0,25,Debit Card,Shipped,2.0,5.0,22029.75
+ORD10832,CUST1132,Customer_132,Faridabad,20-02-2026,Clothing,3,3615.0,5,Credit Card,Delivered,5.0,,10302.75
+ORD10833,CUST1133,Customer_133,Gurgaon,21-02-2026,Sports,2,642.0,10,UPI,Delivered,3.0,1.0,1155.6
+ORD10834,CUST1134,Customer_134,Ghaziabad,21-02-2026,Home & Kitchen,5,12042.0,10,Debit Card,Delivered,5.0,2.0,54189.0
+ORD10835,CUST1135,Customer_135,Delhi,22-02-2026,Grocery,5,6418.0,20,Cash on Delivery,Shipped,5.0,8.0,25672.0
+ORD10836,CUST1136,Customer_136,Ghaziabad,22-02-2026,Grocery,2,4852.0,25,Net Banking,Cancelled,1.0,1.0,7278.0
+ORD10837,CUST1137,Customer_137,Gurgaon,23-02-2026,Clothing,4,8139.0,15,Credit Card,Cancelled,1.0,1.0,27672.6
+ORD10838,CUST1138,Customer_138,Faridabad,23-02-2026,Home & Kitchen,1,8033.0,10,Net Banking,Shipped,1.0,6.0,7229.7
+ORD10839,CUST1139,Customer_139,Ghaziabad,24-02-2026,Home & Kitchen,1,9570.0,0,Cash on Delivery,Delivered,5.0,2.0,9570.0
+ORD10840,CUST1140,Customer_140,Faridabad,24-02-2026,Sports,1,7797.0,25,Debit Card,Delivered,2.0,1.0,5847.75
+ORD10841,CUST1141,Customer_141,Lucknow,25-02-2026,Beauty,2,14525.0,15,Cash on Delivery,Cancelled,3.0,6.0,24692.5
+ORD10842,CUST1142,Customer_142,Chandigarh,25-02-2026,Grocery,2,4658.0,15,Cash on Delivery,Cancelled,3.0,6.0,7918.6
+ORD10843,CUST1143,Customer_143,Delhi,26-02-2026,Sports,3,6791.0,10,Net Banking,Shipped,2.0,2.0,18335.7
+ORD10844,CUST1144,Customer_144,Lucknow,26-02-2026,Electronics,1,9649.0,15,Credit Card,Delivered,2.0,6.0,8201.65
+ORD10845,CUST1145,Customer_145,Faridabad,27-02-2026,Grocery,4,12026.0,10,Cash on Delivery,Cancelled,3.0,2.0,43293.6
+ORD10846,CUST1146,Customer_146,Faridabad,27-02-2026,Sports,4,10233.0,5,Net Banking,Delivered,4.0,8.0,38885.4
+ORD10847,CUST1147,Customer_147,Noida,2026/02/28,Grocery,1,2509.0,25,Credit Card,Cancelled,1.0,2.0,1881.75
+ORD10848,CUST1148,Customer_148,Noida,Not Available,Beauty,1,14338.0,20,Debit Card,Delivered,1.0,3.0,11470.4
+ORD10849,CUST1149,Customer_149,Lucknow,01-03-2026,Electronics,1,6468.0,5,Debit Card,Delivered,3.0,1.0,6144.6
+ORD10850,CUST1150,Customer_150,,01-03-2026,Beauty,2,1110.0,25,UPI,Returned,2.0,8.0,1665.0
+ORD10851,CUST1151,Customer_151,,Not Available,Electronics,2,4540.0,10,Net Banking,Delivered,4.0,,8172.0
+ORD10852,CUST1152,Customer_152,Noida,02-03-2026,Clothing,2,13029.0,25,Credit Card,Returned,3.0,2.0,19543.5
+ORD10853,CUST1153,Customer_153,Faridabad,03-03-2026,Sports,5,4209.0,10,Cash on Delivery,Cancelled,,1.0,18940.5
+ORD10854,CUST1154,Customer_154,Gurgaon,03-03-2026,Electronics,4,6828.0,5,Debit Card,Delivered,5.0,7.0,25946.4
+ORD10855,CUST1155,Customer_155,Lucknow,04-03-2026,Beauty,4,2369.0,0,Credit Card,Delivered,2.0,6.0,9476.0
+ORD10856,CUST1156,Customer_156,Faridabad,04-03-2026,Grocery,3,2372.0,0,Net Banking,Cancelled,5.0,5.0,7116.0
+ORD10857,CUST1157,Customer_157,Gurgaon,05-03-2026,Electronics,2,5868.0,25,UPI,Cancelled,3.0,2.0,8802.0
+ORD10858,CUST1158,Customer_158,Gurgaon,05-03-2026,Sports,5,6513.0,0,Debit Card,Delivered,1.0,6.0,32565.0
+ORD10859,CUST1159,Customer_159,Noida,06-03-2026,Electronics,5,8515.0,10,Credit Card,Cancelled,4.0,6.0,38317.5
+ORD10860,CUST1160,Customer_160,Lucknow,06-03-2026,Home & Kitchen,4,8236.0,15,Credit Card,Shipped,,6.0,28002.4
+ORD10861,CUST1161,Customer_161,Ghaziabad,07-03-2026,Grocery,2,11550.0,10,Credit Card,Cancelled,4.0,6.0,20790.0
+ORD10862,CUST1162,Customer_162,Delhi,07-03-2026,Sports,3,6989.0,15,Net Banking,Shipped,1.0,6.0,17821.95
+ORD10863,CUST1163,Customer_163,Noida,08-03-2026,Sports,2,14219.0,5,Net Banking,Cancelled,5.0,2.0,27016.1
+ORD10864,CUST1164,Customer_164,Noida,08-03-2026,Clothing,1,985.0,20,Net Banking,Delivered,,7.0,788.0
+ORD10865,CUST1165,Customer_165,Ghaziabad,2026/03/09,Beauty,2,6339.0,15,Cash on Delivery,Shipped,4.0,4.0,10776.3
+ORD10866,CUST1166,Customer_166,Delhi,09-03-2026,Clothing,1,6544.0,0,Credit Card,Delivered,5.0,3.0,6544.0
+ORD10867,CUST1167,Customer_167,Faridabad,10-03-2026,Sports,1,2616.0,10,Debit Card,Shipped,1.0,6.0,2354.4
+ORD10868,CUST1168,Customer_168,Jaipur,10-03-2026,Grocery,3,9188.0,5,Net Banking,Delivered,4.0,6.0,26185.8
+ORD10869,CUST1169,Customer_169,,11-03-2026,Electronics,4,12564.0,0,Net Banking,Returned,3.0,3.0,50256.0
+ORD10870,CUST1170,Customer_170,Jaipur,11-03-2026,Electronics,2,4354.0,5,Credit Card,Shipped,5.0,7.0,8272.6
+ORD10871,CUST1171,Customer_171,Faridabad,12-03-2026,Grocery,1,14966.0,20,Net Banking,Cancelled,2.0,8.0,11972.8
+ORD10872,CUST1172,Customer_172,Chandigarh,12-03-2026,Sports,2,5819.0,10,Cash on Delivery,Cancelled,2.0,7.0,10474.2
+ORD10873,CUST1173,Customer_173,Noida,13-03-2026,Electronics,4,2136.0,25,Cash on Delivery,Returned,1.0,8.0,6408.0
+ORD10874,CUST1174,Customer_174,Delhi,13-03-2026,Electronics,4,10548.0,10,Net Banking,Delivered,3.0,2.0,37972.8
+ORD10875,CUST1175,Customer_175,Noida,14-03-2026,Electronics,5,4007.0,20,Credit Card,Delivered,4.0,1.0,16028.0
+ORD10876,CUST1176,Customer_176,Gurgaon,14-03-2026,Beauty,4,7351.0,10,Credit Card,Cancelled,2.0,5.0,26463.6
+ORD10877,CUST1177,Customer_177,Noida,15-03-2026,Beauty,3,9693.0,25,Credit Card,Delivered,1.0,5.0,21809.25
+ORD10878,CUST1178,Customer_178,Noida,15-03-2026,Home & Kitchen,1,12555.0,15,UPI,Delivered,3.0,1.0,10671.75
+ORD10879,CUST1179,Customer_179,Faridabad,16-03-2026,Clothing,5,11532.0,5,Net Banking,Shipped,3.0,2.0,54777.0
+ORD10880,CUST1180,Customer_180,Faridabad,16-03-2026,Grocery,3,3436.0,25,Credit Card,Shipped,1.0,5.0,7731.0
+ORD10881,CUST1181,Customer_181,Faridabad,17-03-2026,Grocery,2,2552.0,0,Cash on Delivery,Delivered,1.0,7.0,5104.0
+ORD10882,CUST1182,Customer_182,Jaipur,17-03-2026,Grocery,1,2132.0,20,Debit Card,Cancelled,4.0,3.0,1705.6
+ORD10883,CUST1183,Customer_183,Gurgaon,18-03-2026,Home & Kitchen,4,11113.0,15,Debit Card,Delivered,1.0,1.0,37784.2
+ORD10884,CUST1184,Customer_184,Chandigarh,18-03-2026,Beauty,1,8756.0,0,Credit Card,Delivered,4.0,7.0,8756.0
+ORD10885,CUST1185,Customer_185,Chandigarh,19-03-2026,Sports,2,5116.0,0,Debit Card,Cancelled,4.0,4.0,10232.0
+ORD10886,CUST1186,Customer_186,Faridabad,19-03-2026,Sports,5,5698.0,20,Debit Card,Delivered,5.0,2.0,22792.0
+ORD10887,CUST1187,Customer_187,Delhi,20-03-2026,Home & Kitchen,5,10782.0,15,UPI,Shipped,3.0,1.0,45823.5
+ORD10888,CUST1188,Customer_188,Jaipur,20-03-2026,Sports,5,1146.0,0,Cash on Delivery,Delivered,3.0,5.0,5730.0
+ORD10889,CUST1189,Customer_189,Ghaziabad,21-03-2026,Grocery,4,14065.0,0,Cash on Delivery,Returned,3.0,2.0,56260.0
+ORD10890,CUST1190,Customer_190,Delhi,21-03-2026,Clothing,3,9769.0,15,UPI,Delivered,5.0,3.0,24910.95
+ORD10891,CUST1191,Customer_191,Lucknow,22-03-2026,Electronics,3,1639.0,10,UPI,Delivered,,2.0,4425.3
+ORD10892,CUST1192,Customer_192,Lucknow,22-03-2026,Beauty,1,11572.0,0,Debit Card,Delivered,4.0,2.0,11572.0
+ORD10893,CUST1193,Customer_193,Delhi,23-03-2026,Beauty,4,7930.0,5,Net Banking,Delivered,1.0,3.0,30134.0
+ORD10894,CUST1194,Customer_194,Faridabad,23-03-2026,Home & Kitchen,5,5057.0,15,Debit Card,Delivered,5.0,6.0,21492.25
+ORD10895,CUST1195,Customer_195,Ghaziabad,24-03-2026,Beauty,5,540.0,0,UPI,Returned,1.0,3.0,2700.0
+ORD10896,CUST1196,Customer_196,Ghaziabad,24-03-2026,Grocery,2,11381.0,20,Cash on Delivery,Shipped,5.0,7.0,18209.6
+ORD10897,CUST1197,Customer_197,Jaipur,25-03-2026,Sports,2,582.0,25,Debit Card,Cancelled,1.0,2.0,873.0
+ORD10898,CUST1198,Customer_198,Ghaziabad,25-03-2026,Grocery,5,13491.0,5,Net Banking,Delivered,2.0,8.0,64082.25
+ORD10899,CUST1199,Customer_199,Lucknow,2025/13/45,Home & Kitchen,5,9948.0,25,Debit Card,Returned,3.0,3.0,37305.0
+ORD10900,CUST1200,Customer_200,,26-03-2026,Grocery,4,8691.0,25,Credit Card,Delivered,3.0,6.0,26073.0
+ORD10901,CUST1201,Customer_201,Faridabad,27-03-2026,Sports,3,338.0,0,Debit Card,Shipped,4.0,7.0,1014.0
+ORD10902,CUST1202,Customer_202,Ghaziabad,27-03-2026,Clothing,2,558.0,5,UPI,Delivered,2.0,8.0,1060.2
+ORD10903,CUST1203,Customer_203,Jaipur,28-03-2026,Home & Kitchen,3,5131.0,5,Cash on Delivery,Returned,3.0,8.0,14623.35
+ORD10904,CUST1204,Customer_204,Lucknow,28-03-2026,Clothing,4,9914.0,10,Cash on Delivery,Returned,4.0,1.0,35690.4
+ORD10905,CUST1205,Customer_205,Gurgaon,29-03-2026,Electronics,5,3656.0,25,UPI,Delivered,2.0,3.0,13710.0
+ORD10906,CUST1206,Customer_206,Noida,29-03-2026,Clothing,3,1827.0,5,Credit Card,Shipped,3.0,3.0,5206.95
+ORD10907,CUST1207,Customer_207,Noida,30-03-2026,Electronics,5,14470.0,10,UPI,Delivered,1.0,2.0,65115.0
+ORD10908,CUST1208,Customer_208,Gurgaon,30-03-2026,Electronics,5,9695.0,15,Debit Card,Shipped,5.0,7.0,41203.75
+ORD10909,CUST1209,Customer_209,Lucknow,31-03-2026,Clothing,1,6826.0,10,UPI,Delivered,2.0,1.0,6143.4
+ORD10910,CUST1210,Customer_210,Jaipur,31-03-2026,Home & Kitchen,3,5204.0,20,UPI,Returned,4.0,4.0,12489.6
+ORD10911,CUST1211,Customer_211,Gurgaon,01-04-2026,Sports,3,9526.0,0,Credit Card,Delivered,2.0,4.0,28578.0
+ORD10912,CUST1212,Customer_212,Faridabad,01-04-2026,Grocery,5,10578.0,15,Debit Card,Delivered,4.0,5.0,44956.5
+ORD10913,CUST1213,Customer_213,Faridabad,02-04-2026,Grocery,4,13483.0,15,Net Banking,Returned,2.0,3.0,45842.2
+ORD10914,CUST1214,Customer_214,Noida,02-04-2026,Sports,1,14970.0,20,Net Banking,Shipped,,3.0,11976.0
+ORD10915,CUST1215,Customer_215,Ghaziabad,03-04-2026,Electronics,5,6852.0,10,Cash on Delivery,Returned,3.0,1.0,30834.0
+ORD10916,CUST1216,Customer_216,Jaipur,03-04-2026,Electronics,2,6616.0,0,UPI,Delivered,1.0,6.0,13232.0
+ORD10917,CUST1217,Customer_217,Noida,04-04-2026,Home & Kitchen,2,3370.0,10,Cash on Delivery,Delivered,3.0,4.0,6066.0
+ORD10918,CUST1218,Customer_218,Ghaziabad,04-04-2026,Beauty,1,4035.0,5,Credit Card,Delivered,1.0,5.0,3833.25
+ORD10919,CUST1219,Customer_219,Ghaziabad,05-04-2026,Clothing,4,8217.0,10,Net Banking,Returned,,,29581.2
+ORD10920,CUST1220,Customer_220,Chandigarh,05-04-2026,Electronics,5,2351.0,15,UPI,Delivered,3.0,3.0,9991.75
+ORD10921,CUST1221,Customer_221,Faridabad,06-04-2026,Grocery,3,9629.0,0,Credit Card,Delivered,2.0,4.0,28887.0
+ORD10922,CUST1222,Customer_222,Lucknow,06-04-2026,Home & Kitchen,1,14272.0,10,Credit Card,Shipped,5.0,7.0,12844.8
+ORD10923,CUST1223,Customer_223,Delhi,07-04-2026,Clothing,4,12127.0,0,UPI,Shipped,4.0,5.0,48508.0
+ORD10924,CUST1224,Customer_224,Lucknow,07-04-2026,Home & Kitchen,3,7105.0,0,Credit Card,Delivered,4.0,2.0,21315.0
+ORD10925,CUST1225,Customer_225,Delhi,08-04-2026,Clothing,2,3034.0,5,UPI,Delivered,4.0,,5764.6
+ORD10926,CUST1226,Customer_226,Gurgaon,08-04-2026,Clothing,2,12652.0,5,UPI,Delivered,1.0,5.0,24038.8
+ORD10927,CUST1227,Customer_227,Faridabad,09-04-2026,Sports,3,9390.0,15,Debit Card,Cancelled,4.0,1.0,23944.5
+ORD10928,CUST1228,Customer_228,Ghaziabad,09-04-2026,Electronics,1,2767.0,20,Cash on Delivery,Cancelled,4.0,2.0,2213.6
+ORD10929,CUST1229,Customer_229,Jaipur,10-04-2026,Home & Kitchen,2,1507.0,0,Credit Card,Delivered,2.0,5.0,3014.0
+ORD10930,CUST1230,Customer_230,Delhi,10-04-2026,Home & Kitchen,5,9048.0,20,Credit Card,Delivered,3.0,5.0,36192.0
+ORD10931,CUST1231,Customer_231,Lucknow,11-04-2026,Sports,3,2860.0,15,Debit Card,Delivered,,8.0,7293.0
+ORD10932,CUST1232,Customer_232,Ghaziabad,11-04-2026,Grocery,3,10603.0,0,Debit Card,Shipped,5.0,8.0,31809.0
+ORD10933,CUST1233,Customer_233,Delhi,12-04-2026,Grocery,2,10301.0,0,Debit Card,Delivered,4.0,8.0,20602.0
+ORD10934,CUST1234,Customer_234,Delhi,12-04-2026,Electronics,1,3930.0,25,Net Banking,Returned,1.0,3.0,2947.5
+ORD10935,CUST1235,Customer_235,Chandigarh,13-04-2026,Electronics,5,10438.0,20,Net Banking,Delivered,1.0,6.0,41752.0
+ORD10936,CUST1236,Customer_236,Delhi,13-04-2026,Beauty,1,6407.0,10,Net Banking,Returned,1.0,4.0,5766.3
+ORD10937,CUST1237,Customer_237,Jaipur,14-04-2026,Sports,4,3362.0,5,UPI,Cancelled,,3.0,12775.6
+ORD10938,CUST1238,Customer_238,Faridabad,2025/13/45,Grocery,4,1340.0,10,Credit Card,Returned,2.0,7.0,4824.0
+ORD10939,CUST1239,Customer_239,Jaipur,15-04-2026,Clothing,2,14377.0,20,Cash on Delivery,Delivered,5.0,2.0,23003.2
+ORD10940,CUST1240,Customer_240,Noida,15-04-2026,Home & Kitchen,2,8658.0,5,UPI,Delivered,4.0,6.0,16450.2
+ORD10941,CUST1241,Customer_241,Ghaziabad,16-04-2026,Electronics,2,10237.0,10,Credit Card,Returned,2.0,5.0,18426.6
+ORD10942,CUST1242,Customer_242,Faridabad,16-04-2026,Home & Kitchen,4,1908.0,25,Credit Card,Delivered,2.0,3.0,5724.0
+ORD10943,CUST1243,Customer_243,Chandigarh,17-04-2026,Home & Kitchen,1,3830.0,5,Debit Card,Delivered,4.0,8.0,3638.5
+ORD10944,CUST1244,Customer_244,Faridabad,17-04-2026,Beauty,1,3411.0,0,Debit Card,Delivered,4.0,6.0,3411.0
+ORD10945,CUST1245,Customer_245,Faridabad,18-04-2026,Grocery,2,10685.0,10,UPI,Returned,2.0,7.0,19233.0
+ORD10946,CUST1246,Customer_246,Lucknow,18-04-2026,Electronics,5,12124.0,5,Debit Card,Delivered,2.0,,57589.0
+ORD10947,CUST1247,Customer_247,,19-04-2026,Home & Kitchen,1,12221.0,25,Credit Card,Shipped,2.0,7.0,9165.75
+ORD10948,CUST1248,Customer_248,Chandigarh,19-04-2026,Electronics,4,6738.0,5,Debit Card,Delivered,4.0,2.0,25604.4
+ORD10949,CUST1249,Customer_249,Jaipur,20-04-2026,Clothing,3,9902.0,5,,Delivered,2.0,1.0,28220.7
+ORD10950,CUST1250,Customer_250,Faridabad,20-04-2026,Beauty,3,675.0,25,Debit Card,Returned,1.0,3.0,1518.75
+ORD10951,CUST1251,Customer_251,Gurgaon,21-04-2026,Clothing,3,7884.0,10,Credit Card,Cancelled,4.0,8.0,21286.8
+ORD10952,CUST1252,Customer_252,Ghaziabad,21-04-2026,Electronics,5,9368.0,15,UPI,Returned,1.0,2.0,39814.0
+ORD10953,CUST1253,Customer_253,Faridabad,22-04-2026,Electronics,2,1407.0,10,Cash on Delivery,Delivered,3.0,1.0,2532.6
+ORD10954,CUST1254,Customer_254,Ghaziabad,22-04-2026,Grocery,4,13531.0,20,Debit Card,Delivered,4.0,8.0,43299.2
+ORD10955,CUST1255,Customer_255,Gurgaon,2026/04/23,Home & Kitchen,5,2160.0,25,Credit Card,Cancelled,3.0,8.0,8100.0
+ORD10956,CUST1256,Customer_256,Gurgaon,23-04-2026,Home & Kitchen,4,757.0,10,Cash on Delivery,Returned,2.0,8.0,2725.2
+ORD10957,CUST1257,Customer_257,Ghaziabad,24-04-2026,Clothing,4,13505.0,5,Cash on Delivery,Returned,2.0,3.0,51319.0
+ORD10958,CUST1258,Customer_258,Delhi,24-04-2026,Beauty,2,14093.0,25,Net Banking,Delivered,5.0,2.0,21139.5
+ORD10959,CUST1259,Customer_259,Noida,25-04-2026,Sports,3,,0,Cash on Delivery,Delivered,2.0,,3246.0
+ORD10960,CUST1260,Customer_260,Lucknow,25-04-2026,Home & Kitchen,2,10586.0,10,Credit Card,Shipped,3.0,7.0,19054.8
+ORD10961,CUST1261,Customer_261,Delhi,26-04-2026,Grocery,5,4961.0,25,Credit Card,Returned,2.0,,18603.75
+ORD10962,CUST1262,Customer_262,Delhi,26-04-2026,Clothing,5,11059.0,10,Debit Card,Delivered,4.0,6.0,49765.5
+ORD10963,CUST1263,Customer_263,Jaipur,27-04-2026,Clothing,5,6067.0,25,,Delivered,2.0,7.0,22751.25
+ORD10964,CUST1264,Customer_264,Lucknow,27-04-2026,Sports,2,7163.0,5,Debit Card,Cancelled,5.0,3.0,13609.7
+ORD10965,CUST1265,Customer_265,Lucknow,28-04-2026,Grocery,4,13351.0,0,Cash on Delivery,Delivered,2.0,8.0,53404.0
+ORD10966,CUST1266,Customer_266,Delhi,28-04-2026,Beauty,4,13069.0,0,Cash on Delivery,Cancelled,3.0,2.0,52276.0
+ORD10967,CUST1267,Customer_267,,29-04-2026,Grocery,1,7366.0,20,Net Banking,Returned,3.0,5.0,5892.8
+ORD10968,CUST1268,Customer_268,Jaipur,29-04-2026,Beauty,5,13182.0,25,Debit Card,Shipped,2.0,3.0,49432.5
+ORD10969,CUST1269,Customer_269,Jaipur,30-04-2026,Grocery,4,8129.0,10,UPI,Delivered,3.0,2.0,29264.4
+ORD10970,CUST1270,Customer_270,Gurgaon,30-04-2026,Grocery,1,5547.0,0,Net Banking,Delivered,3.0,6.0,5547.0
+ORD10971,CUST1271,Customer_271,Chandigarh,01-05-2026,Electronics,4,7469.0,0,UPI,Delivered,5.0,8.0,29876.0
+ORD10972,CUST1272,Customer_272,Lucknow,01-05-2026,Clothing,5,10002.0,15,Cash on Delivery,Returned,4.0,1.0,42508.5
+ORD10973,CUST1273,Customer_273,Delhi,02-05-2026,Grocery,3,11880.0,15,Net Banking,Cancelled,5.0,8.0,30294.0
+ORD10974,CUST1274,Customer_274,Gurgaon,02-05-2026,Sports,5,8325.0,0,Net Banking,Delivered,1.0,1.0,41625.0
+ORD10975,CUST1275,Customer_275,Ghaziabad,03-05-2026,Grocery,2,13727.0,25,Credit Card,Delivered,5.0,5.0,20590.5
+ORD10976,CUST1276,Customer_276,Noida,03-05-2026,Home & Kitchen,4,2654.0,20,Cash on Delivery,Delivered,2.0,3.0,8492.8
+ORD10977,CUST1277,Customer_277,Chandigarh,04-05-2026,Clothing,4,4694.0,0,Cash on Delivery,Returned,4.0,6.0,18776.0
+ORD10978,CUST1278,Customer_278,Chandigarh,04-05-2026,Home & Kitchen,2,2146.0,5,Net Banking,Shipped,2.0,2.0,4077.4
+ORD10979,CUST1279,Customer_279,Chandigarh,05-05-2026,Clothing,2,13202.0,10,Cash on Delivery,Delivered,1.0,2.0,23763.6
+ORD10980,CUST1280,Customer_280,Jaipur,05-05-2026,Home & Kitchen,3,13191.0,20,Net Banking,Delivered,4.0,1.0,31658.4
+ORD10981,CUST1281,Customer_281,Ghaziabad,06-05-2026,Grocery,4,3008.0,5,Credit Card,Delivered,3.0,6.0,11430.4
+ORD10982,CUST1282,Customer_282,Chandigarh,06-05-2026,Grocery,4,6842.0,20,Net Banking,Delivered,5.0,7.0,21894.4
+ORD10983,CUST1283,Customer_283,Ghaziabad,07-05-2026,Electronics,3,4025.0,5,Cash on Delivery,Cancelled,2.0,5.0,11471.25
+ORD10984,CUST1284,Customer_284,Faridabad,07-05-2026,Sports,1,3736.0,10,Cash on Delivery,Delivered,1.0,1.0,3362.4
+ORD10985,CUST1285,Customer_285,Chandigarh,08-05-2026,Home & Kitchen,3,14202.0,10,Net Banking,Delivered,3.0,1.0,38345.4
+ORD10986,CUST1286,Customer_286,Noida,08-05-2026,Beauty,5,6268.0,15,,Shipped,5.0,,26639.0
+ORD10987,CUST1287,Customer_287,Ghaziabad,09-05-2026,Electronics,4,4002.0,25,Net Banking,Cancelled,3.0,3.0,12006.0
+ORD10988,CUST1288,Customer_288,Ghaziabad,09-05-2026,Home & Kitchen,2,12569.0,5,Debit Card,Delivered,5.0,2.0,23881.1
+ORD10989,CUST1289,Customer_289,Noida,10-05-2026,Home & Kitchen,5,4899.0,15,Cash on Delivery,Delivered,4.0,3.0,20820.75
+ORD10990,CUST1290,Customer_290,Chandigarh,10-05-2026,Electronics,4,2170.0,5,Cash on Delivery,Delivered,3.0,6.0,8246.0
+ORD10991,CUST1291,Customer_291,Noida,11-05-2026,Grocery,3,6006.0,15,Debit Card,Delivered,3.0,7.0,15315.3
+ORD10992,CUST1292,Customer_292,Ghaziabad,11-05-2026,Home & Kitchen,5,6342.0,10,Net Banking,Cancelled,3.0,8.0,28539.0
+ORD10993,CUST1293,Customer_293,Noida,12-05-2026,Grocery,4,12214.0,20,Credit Card,Delivered,4.0,4.0,39084.8
+ORD10994,CUST1294,Customer_294,Ghaziabad,12-05-2026,Electronics,1,3019.0,15,Net Banking,Shipped,1.0,4.0,2566.15
+ORD10995,CUST1295,Customer_295,Ghaziabad,13-05-2026,Grocery,1,9294.0,5,Net Banking,Returned,5.0,4.0,8829.3
+ORD10996,CUST1296,Customer_296,Faridabad,13-05-2026,Clothing,2,564.0,5,Debit Card,Delivered,3.0,5.0,1071.6
+ORD10997,CUST1297,Customer_297,Delhi,14-05-2026,Beauty,4,4458.0,25,Cash on Delivery,Shipped,4.0,1.0,13374.0
+ORD10998,CUST1298,Customer_298,Ghaziabad,14-05-2026,Home & Kitchen,1,3319.0,10,Net Banking,Returned,1.0,7.0,2987.1
+ORD10999,CUST1299,Customer_299,Chandigarh,15-05-2026,Sports,3,10950.0,5,Cash on Delivery,Cancelled,5.0,3.0,31207.5
+ORD11000,CUST1300,Customer_300,Gurgaon,15-05-2026,Beauty,4,2063.0,0,UPI,Cancelled,4.0,8.0,8252.0
+ORD10051,CUST1051,Customer_51,Lucknow,26-01-2025,Sports,4,10395.0,15,Debit Card,Delivered,1.0,8.0,35343.0
+ORD10101,CUST1101,Customer_101,Lucknow,20-02-2025,Clothing,1,9232.0,10,Credit Card,Delivered,3.0,4.0,8308.8
+ORD10151,CUST1151,Customer_151,Gurgaon,17-03-2025,Clothing,1,13116.0,0,UPI,Shipped,2.0,7.0,13116.0
+ORD10201,CUST1201,Customer_201,Lucknow,11-04-2025,Home & Kitchen,4,2054.0,20,Credit Card,Shipped,2.0,1.0,6572.8
+ORD10251,CUST1251,Customer_251,Jaipur,06-05-2025,Electronics,4,12049.0,10,Debit Card,Cancelled,2.0,7.0,43376.4
+ORD10301,CUST1301,Customer_301,Delhi,31-05-2025,Clothing,4,14035.0,0,Net Banking,Shipped,,,56140.0
+ORD10351,CUST1001,Customer_1,Ghaziabad,25-06-2025,Grocery,2,787.0,15,Credit Card,Delivered,1.0,1.0,1337.9
+ORD10401,CUST1051,Customer_51,Chandigarh,20-07-2025,Grocery,4,4030.0,5,Credit Card,Shipped,4.0,2.0,15314.0
+ORD10101,CUST1101,Customer_101,Jaipur,14-08-2025,Beauty,3,8987.0,10,Cash on Delivery,Cancelled,1.0,,24264.9
+ORD10051,CUST1151,Customer_151,Lucknow,08-09-2025,Home & Kitchen,4,240.0,0,UPI,Cancelled,5.0,6.0,960.0

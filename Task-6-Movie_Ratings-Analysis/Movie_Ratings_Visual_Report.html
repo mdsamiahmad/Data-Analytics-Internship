@@ -1,17 +1,263 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+
+<html lang="en">
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+```
 <title>Movie Ratings Analysis - Visual Report</title>
+
 <style>
-body { font-family: Arial, sans-serif; margin: 40px; color: #222; }
-h1 { margin-bottom: 5px; }
-.subtitle { color: #666; }
-.card { margin: 28px 0; page-break-inside: avoid; }
-img { max-width: 100%; border: 1px solid #ddd; }
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        background: #f5f7fa;
+        color: #222;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 1100px;
+        margin: auto;
+        padding: 40px 20px;
+    }
+
+    header {
+        background: #1f2937;
+        color: white;
+        padding: 45px 30px;
+        border-radius: 12px;
+        margin-bottom: 30px;
+    }
+
+    header h1 {
+        margin: 0 0 8px;
+        font-size: 36px;
+    }
+
+    header p {
+        margin: 5px 0;
+        color: #d1d5db;
+    }
+
+    .summary {
+        background: white;
+        padding: 25px;
+        border-radius: 10px;
+        margin-bottom: 30px;
+        border: 1px solid #e5e7eb;
+    }
+
+    .summary h2 {
+        margin-top: 0;
+    }
+
+    .card {
+        background: white;
+        margin: 30px 0;
+        padding: 25px;
+        border-radius: 10px;
+        border: 1px solid #e5e7eb;
+        page-break-inside: avoid;
+    }
+
+    .card h2 {
+        margin-top: 0;
+        color: #111827;
+    }
+
+    .card p {
+        color: #555;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        max-width: 1000px;
+        height: auto;
+        margin: 20px auto 5px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 40px;
+        padding: 25px;
+        color: #666;
+    }
+
+    @media (max-width: 600px) {
+        .container {
+            padding: 20px 12px;
+        }
+
+        header {
+            padding: 30px 20px;
+        }
+
+        header h1 {
+            font-size: 28px;
+        }
+
+        .card {
+            padding: 18px;
+        }
+    }
+
+    @media print {
+        body {
+            background: white;
+        }
+
+        .container {
+            max-width: 100%;
+        }
+
+        .card {
+            border: none;
+        }
+    }
 </style>
+```
+
 </head>
+
 <body>
-<h1>Movie Ratings Analysis</h1>
-<p class="subtitle">Visual report based on 650 movie records.</p>
-<div class="card"><h2>Chart 1: 01 Genre Distribution</h2><img src="01_genre_distribution.png"></div><div class="card"><h2>Chart 2: 02 Avg Rating Genre</h2><img src="02_avg_rating_genre.png"></div><div class="card"><h2>Chart 3: 03 Movies By Year</h2><img src="03_movies_by_year.png"></div><div class="card"><h2>Chart 4: 04 Rating Distribution</h2><img src="04_rating_distribution.png"></div><div class="card"><h2>Chart 5: 05 Top Rated Movies</h2><img src="05_top_rated_movies.png"></div><div class="card"><h2>Chart 6: 06 Rating Vs Votes</h2><img src="06_rating_vs_votes.png"></div></body></html>
+
+<div class="container">
+
+```
+<!-- Header -->
+<header>
+    <h1>🎬 Movie Ratings Analysis</h1>
+    <p>Task 6 – Python Visualization</p>
+    <p>Visual Report based on 650 movie records</p>
+</header>
+
+<!-- Project Overview -->
+<section class="summary">
+    <h2>📌 Project Overview</h2>
+
+    <p>
+        This project analyzes a movie ratings dataset containing
+        <strong>650 movies</strong> using Python. The analysis explores
+        movie genres, ratings, release years, and popularity through
+        data visualization.
+    </p>
+
+    <p>
+        <strong>Tools:</strong>
+        Python, Pandas, Matplotlib, Seaborn, and Jupyter Notebook
+    </p>
+</section>
+
+<!-- Chart 1 -->
+<section class="card">
+    <h2>1. Movie Genre Distribution</h2>
+
+    <p>
+        This chart shows the number of movies belonging to each genre
+        and helps identify the most represented genres in the dataset.
+    </p>
+
+    <img src="charts/01_genre_distribution.png"
+         alt="Movie Genre Distribution">
+</section>
+
+<!-- Chart 2 -->
+<section class="card">
+    <h2>2. Average Rating by Genre</h2>
+
+    <p>
+        This visualization compares the average rating across different
+        movie genres.
+    </p>
+
+    <img src="charts/02_avg_rating_genre.png"
+         alt="Average Rating by Genre">
+</section>
+
+<!-- Chart 3 -->
+<section class="card">
+    <h2>3. Movie Releases by Year</h2>
+
+    <p>
+        This chart shows how the number of movies varies across
+        different release years.
+    </p>
+
+    <img src="charts/03_movies_by_year.png"
+         alt="Movie Releases by Year">
+</section>
+
+<!-- Chart 4 -->
+<section class="card">
+    <h2>4. Movie Rating Distribution</h2>
+
+    <p>
+        This histogram shows how movie ratings are distributed across
+        the dataset.
+    </p>
+
+    <img src="charts/04_rating_distribution.png"
+         alt="Movie Rating Distribution">
+</section>
+
+<!-- Chart 5 -->
+<section class="card">
+    <h2>5. Top 10 Highest-Rated Movies</h2>
+
+    <p>
+        This visualization displays the ten movies with the highest
+        ratings in the dataset.
+    </p>
+
+    <img src="charts/05_top_rated_movies.png"
+         alt="Top 10 Highest-Rated Movies">
+</section>
+
+<!-- Chart 6 -->
+<section class="card">
+    <h2>6. Rating vs. Vote Count</h2>
+
+    <p>
+        This scatter plot explores the relationship between the number
+        of votes and movie ratings.
+    </p>
+
+    <img src="charts/06_rating_vs_votes.png"
+         alt="Rating vs Vote Count">
+</section>
+
+<!-- Conclusion -->
+<section class="summary">
+    <h2>💡 Conclusion</h2>
+
+    <p>
+        Python visualization provides an effective way to identify
+        patterns and trends in movie data. The analysis combines
+        Pandas for data preparation with Matplotlib and Seaborn for
+        visual exploration.
+    </p>
+</section>
+
+<!-- Footer -->
+<footer>
+    <p>
+        <strong>Md Sami Ahmad</strong><br>
+        B.Tech Computer Science & Engineering<br>
+        IIMT College of Engineering, Greater Noida
+    </p>
+</footer>
+```
+
+</div>
+
+</body>
+</html>
